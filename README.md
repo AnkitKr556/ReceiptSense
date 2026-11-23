@@ -2,7 +2,7 @@
 
 **Receipt-driven expense tracker with OCR and ML-based auto categorization.** Runs entirely on your own computer.
 
-![tests](https://github.com/Samar-Anand-Pal/receiptsense/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/AnkitKr556/ReceiptSense/actions/workflows/ci.yml/badge.svg)
 
 You take a photo of a bill. The code cleans up the image, reads it with OCR, pulls out the shop name, date, total and items, and puts the expense in a spending category. When it isn't sure about the category it asks you, and every correction you make teaches it something.
 
@@ -178,3 +178,6 @@ Everything is seeded, so the numbers come out the same each time (Tesseract vers
 ## What's not in here
 
 User accounts and cloud sync. The app is single-user and local on purpose (privacy). The slides mention a React dashboard; it was built as a plain-JS single page instead, so the project runs with Python alone.
+=======
+# ReceiptSense
+>>>>>>> 9dde14ab7a68df3149ccd1b597f1428142727c79
