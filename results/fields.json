@@ -1,0 +1,542 @@
+{
+  "setting": {
+    "config": "full pipeline",
+    "psm": 4
+  },
+  "main": {
+    "clean": {
+      "merchant_exact": 100.0,
+      "merchant_fuzzy": 100.0,
+      "date": 96.2,
+      "total": 95.0,
+      "all_three": 91.2,
+      "item_recall": 81.1,
+      "n": 80
+    },
+    "medium": {
+      "merchant_exact": 100.0,
+      "merchant_fuzzy": 100.0,
+      "date": 93.8,
+      "total": 97.5,
+      "all_three": 91.2,
+      "item_recall": 86.2,
+      "n": 80
+    },
+    "hard": {
+      "merchant_exact": 100.0,
+      "merchant_fuzzy": 100.0,
+      "date": 58.8,
+      "total": 57.5,
+      "all_three": 32.5,
+      "item_recall": 63.9,
+      "n": 80
+    },
+    "synthetic (all)": {
+      "merchant_exact": 100.0,
+      "merchant_fuzzy": 100.0,
+      "date": 82.9,
+      "total": 83.3,
+      "all_three": 71.7,
+      "item_recall": 77.0,
+      "n": 240
+    },
+    "SROIE real scans": {
+      "merchant_exact": 40.0,
+      "merchant_fuzzy": 60.0,
+      "date": 76.0,
+      "total": 74.0,
+      "all_three": 42.0,
+      "n": 100
+    }
+  },
+  "skew": {
+    "clean": {
+      "mean_abs_deg": 0.0
+    },
+    "medium": {
+      "mean_abs_deg": 1.5100000000000002
+    },
+    "hard": {
+      "mean_abs_deg": 3.68375
+    }
+  },
+  "ablation": [
+    {
+      "config": "raw (no preprocessing)",
+      "synthetic": {
+        "merchant_exact": 92.5,
+        "merchant_fuzzy": 94.2,
+        "date": 72.1,
+        "total": 40.4,
+        "all_three": 38.8,
+        "item_recall": 38.7,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 41.0,
+        "merchant_fuzzy": 59.0,
+        "date": 69.0,
+        "total": 68.0,
+        "all_three": 39.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 95.0,
+        "total": 88.8,
+        "all_three": 83.8,
+        "item_recall": 68.3,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 100.0,
+        "total": 32.5,
+        "all_three": 32.5,
+        "item_recall": 47.7,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 77.5,
+        "merchant_fuzzy": 82.5,
+        "date": 21.2,
+        "total": 0.0,
+        "all_three": 0.0,
+        "item_recall": 0.0,
+        "n": 80
+      }
+    },
+    {
+      "config": "full pipeline",
+      "synthetic": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 82.9,
+        "total": 83.3,
+        "all_three": 71.7,
+        "item_recall": 77.0,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 40.0,
+        "merchant_fuzzy": 60.0,
+        "date": 76.0,
+        "total": 74.0,
+        "all_three": 42.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 96.2,
+        "total": 95.0,
+        "all_three": 91.2,
+        "item_recall": 81.1,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 93.8,
+        "total": 97.5,
+        "all_three": 91.2,
+        "item_recall": 86.2,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 58.8,
+        "total": 57.5,
+        "all_three": 32.5,
+        "item_recall": 63.9,
+        "n": 80
+      }
+    },
+    {
+      "config": "without upscale",
+      "synthetic": {
+        "merchant_exact": 98.8,
+        "merchant_fuzzy": 99.2,
+        "date": 89.6,
+        "total": 49.2,
+        "all_three": 45.4,
+        "item_recall": 45.0,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 43.0,
+        "merchant_fuzzy": 61.0,
+        "date": 69.0,
+        "total": 65.0,
+        "all_three": 38.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 95.0,
+        "total": 90.0,
+        "all_three": 85.0,
+        "item_recall": 74.8,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 96.2,
+        "total": 47.5,
+        "all_three": 45.0,
+        "item_recall": 48.8,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 96.2,
+        "merchant_fuzzy": 97.5,
+        "date": 77.5,
+        "total": 10.0,
+        "all_three": 6.2,
+        "item_recall": 11.3,
+        "n": 80
+      }
+    },
+    {
+      "config": "without light flattening",
+      "synthetic": {
+        "merchant_exact": 99.6,
+        "merchant_fuzzy": 100.0,
+        "date": 75.8,
+        "total": 64.2,
+        "all_three": 62.1,
+        "item_recall": 54.6,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 40.0,
+        "merchant_fuzzy": 59.0,
+        "date": 73.0,
+        "total": 74.0,
+        "all_three": 42.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 97.5,
+        "total": 93.8,
+        "all_three": 91.2,
+        "item_recall": 79.8,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 97.5,
+        "total": 97.5,
+        "all_three": 95.0,
+        "item_recall": 84.0,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 98.8,
+        "merchant_fuzzy": 100.0,
+        "date": 32.5,
+        "total": 1.2,
+        "all_three": 0.0,
+        "item_recall": 0.0,
+        "n": 80
+      }
+    },
+    {
+      "config": "without deskew",
+      "synthetic": {
+        "merchant_exact": 95.8,
+        "merchant_fuzzy": 96.2,
+        "date": 82.5,
+        "total": 76.2,
+        "all_three": 70.0,
+        "item_recall": 70.8,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 41.0,
+        "merchant_fuzzy": 61.0,
+        "date": 73.0,
+        "total": 71.0,
+        "all_three": 38.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 96.2,
+        "total": 95.0,
+        "all_three": 91.2,
+        "item_recall": 81.1,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 97.5,
+        "total": 95.0,
+        "all_three": 92.5,
+        "item_recall": 81.5,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 87.5,
+        "merchant_fuzzy": 88.8,
+        "date": 53.8,
+        "total": 38.8,
+        "all_three": 26.2,
+        "item_recall": 50.0,
+        "n": 80
+      }
+    },
+    {
+      "config": "without denoise",
+      "synthetic": {
+        "merchant_exact": 99.6,
+        "merchant_fuzzy": 100.0,
+        "date": 82.5,
+        "total": 78.3,
+        "all_three": 69.6,
+        "item_recall": 72.3,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 40.0,
+        "merchant_fuzzy": 59.0,
+        "date": 73.0,
+        "total": 75.0,
+        "all_three": 37.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 96.2,
+        "total": 95.0,
+        "all_three": 91.2,
+        "item_recall": 81.1,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 93.8,
+        "total": 96.2,
+        "all_three": 90.0,
+        "item_recall": 86.2,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 98.8,
+        "merchant_fuzzy": 100.0,
+        "date": 57.5,
+        "total": 43.8,
+        "all_three": 27.5,
+        "item_recall": 49.6,
+        "n": 80
+      }
+    },
+    {
+      "config": "denoise every image",
+      "synthetic": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 82.5,
+        "total": 81.2,
+        "all_three": 69.2,
+        "item_recall": 75.4,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 37.0,
+        "merchant_fuzzy": 55.0,
+        "date": 77.0,
+        "total": 75.0,
+        "all_three": 41.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 95.0,
+        "total": 88.8,
+        "all_three": 83.8,
+        "item_recall": 76.0,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 93.8,
+        "total": 97.5,
+        "all_three": 91.2,
+        "item_recall": 86.2,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 58.8,
+        "total": 57.5,
+        "all_three": 32.5,
+        "item_recall": 63.9,
+        "n": 80
+      }
+    },
+    {
+      "config": "plus Otsu binarization",
+      "synthetic": {
+        "merchant_exact": 87.9,
+        "merchant_fuzzy": 97.9,
+        "date": 52.1,
+        "total": 59.6,
+        "all_three": 40.4,
+        "item_recall": 76.3,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 36.0,
+        "merchant_fuzzy": 53.0,
+        "date": 67.0,
+        "total": 68.0,
+        "all_three": 32.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 98.8,
+        "total": 100.0,
+        "all_three": 98.8,
+        "item_recall": 89.2,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 97.5,
+        "merchant_fuzzy": 100.0,
+        "date": 15.0,
+        "total": 46.2,
+        "all_three": 11.2,
+        "item_recall": 83.2,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 66.2,
+        "merchant_fuzzy": 93.8,
+        "date": 42.5,
+        "total": 32.5,
+        "all_three": 11.2,
+        "item_recall": 56.5,
+        "n": 80
+      }
+    },
+    {
+      "config": "plus adaptive binarization",
+      "synthetic": {
+        "merchant_exact": 90.0,
+        "merchant_fuzzy": 97.1,
+        "date": 80.0,
+        "total": 72.5,
+        "all_three": 67.9,
+        "item_recall": 63.8,
+        "n": 240
+      },
+      "sroie": {
+        "merchant_exact": 28.0,
+        "merchant_fuzzy": 45.0,
+        "date": 75.0,
+        "total": 71.0,
+        "all_three": 33.0,
+        "n": 100
+      },
+      "clean": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 98.8,
+        "total": 98.8,
+        "all_three": 97.5,
+        "item_recall": 88.8,
+        "n": 80
+      },
+      "medium": {
+        "merchant_exact": 98.8,
+        "merchant_fuzzy": 100.0,
+        "date": 97.5,
+        "total": 100.0,
+        "all_three": 97.5,
+        "item_recall": 86.1,
+        "n": 80
+      },
+      "hard": {
+        "merchant_exact": 71.2,
+        "merchant_fuzzy": 91.2,
+        "date": 43.8,
+        "total": 18.8,
+        "all_three": 8.8,
+        "item_recall": 16.5,
+        "n": 80
+      }
+    }
+  ],
+  "latency": {
+    "synthetic": {
+      "preprocess": {
+        "mean_ms": 519.7831949375427,
+        "median_ms": 523.2552514999043,
+        "p95_ms": 612.617529150566,
+        "max_ms": 660.3548000002775
+      },
+      "ocr": {
+        "mean_ms": 593.8078408541363,
+        "median_ms": 575.1089084997147,
+        "p95_ms": 832.833864350232,
+        "max_ms": 1134.8366170004738
+      },
+      "parse": {
+        "mean_ms": 0.6514078666972031,
+        "median_ms": 0.6268854999689211,
+        "p95_ms": 0.9526825003831617,
+        "max_ms": 1.5022620000308962
+      },
+      "total": {
+        "mean_ms": 1114.2431203666813,
+        "median_ms": 1096.8508129999464,
+        "p95_ms": 1407.0144177015209,
+        "max_ms": 1644.1062769999917
+      }
+    },
+    "SROIE": {
+      "preprocess": {
+        "mean_ms": 1759.944765759983,
+        "median_ms": 936.5223884997249,
+        "p95_ms": 8967.927750799981,
+        "max_ms": 9891.202410000005
+      },
+      "ocr": {
+        "mean_ms": 1005.0751240400676,
+        "median_ms": 883.6787789996379,
+        "p95_ms": 1703.5405273496506,
+        "max_ms": 2635.908771000686
+      },
+      "parse": {
+        "mean_ms": 1.1492612699657911,
+        "median_ms": 0.9571724999659637,
+        "p95_ms": 1.7345959001431763,
+        "max_ms": 10.898320000706008
+      },
+      "total": {
+        "mean_ms": 2766.169977469991,
+        "median_ms": 1897.8575819996877,
+        "p95_ms": 10761.310798999648,
+        "max_ms": 11693.525657001373
+      }
+    }
+  }
+}

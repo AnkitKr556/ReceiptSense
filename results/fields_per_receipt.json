@@ -1,0 +1,7358 @@
+[
+  {
+    "id": "test_0000",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ASSI COMPUTERS",
+      "date": null,
+      "total": 1014.0,
+      "items": [
+        "Keyboard"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0007",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SRI MART",
+      "date": "2026-06-02",
+      "total": 4632.0,
+      "items": [
+        "KURTA SET",
+        "MINERAL WATER 1L",
+        "KIDS FROCK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0009",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Metro Agencies",
+      "date": "2025-12-17",
+      "total": 4667.6,
+      "items": [
+        "TWL SET",
+        "WNTR JCKT",
+        "LTHR BLT",
+        "BDSHT DBL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0012",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Sunrise Fresh Mart",
+      "date": "2026-04-30",
+      "total": 231.52,
+      "items": [
+        "Bread",
+        "Refined Oil 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0016",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Menon & Sons",
+      "date": "2026-07-16",
+      "total": 2275.75,
+      "items": [
+        "Basmati Rice 5kg",
+        "Cotton Shirt",
+        "Multivitamin Caps",
+        "Instant Noodles",
+        "Mustard Oil 1L",
+        "Mineral Water 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0021",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": "2025-05-24",
+      "total": 289.99,
+      "items": [
+        "CHIPS",
+        "PUNCTURE REPAIR 1 62:00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0033",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "MAURYA ENTERPRISES",
+      "date": "2025-02-11",
+      "total": 996.25,
+      "items": [
+        "SANDALS",
+        "DUPATTA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0041",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "OM MART",
+      "date": "2026-07-20",
+      "total": 3510.64,
+      "items": [
+        "SOCK 3 PAIR LT",
+        "SPOR SHOE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0047",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "NAIR & SONS",
+      "date": "2026-10-30",
+      "total": 266.0,
+      "items": [
+        "Carry Bag",
+        "Rasmalai",
+        "Mineral Water 1L",
+        "Masala Chai",
+        "Chole Bhature"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0062",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "ROYAL GAS AGENCY",
+      "date": "2025-03-18",
+      "total": 82.25,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0068",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BHARAT DIGITAL WORLD",
+      "date": "2025-09-24",
+      "total": 780.0,
+      "items": [
+        "Mobile Repair"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0089",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "New Store",
+      "date": "2026-03-31",
+      "total": 160.16,
+      "items": [
+        "Paracetamol 500mg",
+        "Pantoprazole 40mg"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0100",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SRI POINT",
+      "date": "2026-09-17",
+      "total": 4289.0,
+      "items": [
+        "AIR FLTR",
+        "BK SRVC",
+        "CLNT 1L",
+        "OTSTTN CAB",
+        "WTNG CHRGS",
+        "CRRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0103",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Sankat Mochan Supermarket",
+      "date": "2026-07-29",
+      "total": 134.0,
+      "items": [
+        "CHPS",
+        "PNR 200G",
+        "CLD DRNK 600ML",
+        "PTT 2KG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0118",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "DESAI PETROLEUM",
+      "date": "2025-12-25",
+      "total": 2500.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0126",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.6,
+    "pred": {
+      "merchant": "New Store",
+      "date": null,
+      "total": 640.93,
+      "items": [
+        "ORS Sachet",
+        "Toll Charges",
+        "Cough Syrup 100ml 1 1389:500",
+        "Bandage Roll"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0129",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Agarwal Petroleum",
+      "date": "2026-08-04",
+      "total": 132.5,
+      "items": [
+        "Cough Syrup 100m1"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0131",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BALAJI POINT",
+      "date": "2025-05-26",
+      "total": 1187.5,
+      "items": [
+        "CHIP",
+        "VITA C TABL",
+        "BLOO TEST CBC",
+        "THYR PROF",
+        "CETI 10MG 2 SA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0132",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GUPTA ELECTRICALS",
+      "date": "2026-02-23",
+      "total": 817.74,
+      "items": [
+        "EXTNSN BRD"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0144",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Saxena Brothers",
+      "date": "2026-01-27",
+      "total": 5105.52,
+      "items": [
+        "DUPATTA",
+        "TRACK PANTS",
+        "HANDBAG",
+        "LEATHER BELT",
+        "KURTA SET",
+        "SOCKS 3 PAIR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0145",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Bharat Associates",
+      "date": "2026-08-24",
+      "total": 751.0,
+      "items": [
+        "PRNTT",
+        "DTH RCHRG",
+        "DT PCK",
+        "PRPD RCHRG",
+        "TTHPST 150G Ae",
+        "CRRY BAG a"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0149",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Jai Mata Di Chemist & Druggist",
+      "date": "2026-02-15",
+      "total": 992.03,
+      "items": [
+        "PARACETAMOL 500MG 3)",
+        "COUGH SYRUP 100ML",
+        "ANTISEPTIC 100ML",
+        "THYROID PROFILE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0152",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ANNAPURNA SUPERMARKET",
+      "date": "2025-11-17",
+      "total": 87.16,
+      "items": [
+        "INST NOOD"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0154",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "VISHWANATH ENTERPRISES",
+      "date": "2025-05-12",
+      "total": 4349.0,
+      "items": [
+        "MV TCKT CLSSC",
+        "BRD GM SSSN",
+        "WTR PRK ENTRY",
+        "BSMT RC 5KG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0169",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "SAI BROADBAND",
+      "date": "2026-10-12",
+      "total": 1608.0,
+      "items": [
+        "Late Payment Fee",
+        "Water Bill",
+        "Router Rental"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0175",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": "2025-01-28",
+      "total": 2336.03,
+      "items": [
+        "LPG Cylinder Refill",
+        "Pain Relief Gel",
+        "Consultation Fee",
+        "Bandage Roll",
+        "Thermometer"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0177",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "NATIONAL ENTERPRISES",
+      "date": "2025-10-08",
+      "total": 857.86,
+      "items": [
+        "MASALA CHAI",
+        "ALOO PARATHA",
+        "CHOCOLATE",
+        "CHICKEN BIRYANI",
+        "MASALA DOSA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0188",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Golden Cab Services",
+      "date": "2026-08-28",
+      "total": 2419.58,
+      "items": [
+        "PANEER BUTTER MASALA",
+        "BIKE SERVICE",
+        "POHA 500G",
+        "BUS TICKET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0195",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Lanka Agencies",
+      "date": "2026-06-14",
+      "total": 647.36,
+      "items": [
+        "ORS SCHT",
+        "CNSLTTN FEE",
+        "CHCLT"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0197",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "JAI MATA DI AUTO CENTRE",
+      "date": "2025-01-26",
+      "total": 3179.5,
+      "items": [
+        "Socks 3 Pair",
+        "Puncture Repair",
+        "Air Filter",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0220",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "SIGRA CINEMAS",
+      "date": "2025-01-14",
+      "total": 3180.0,
+      "items": [
+        "Chocolate",
+        "Gaming 1 Hour",
+        "Cold Drink 600ml"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0233",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LUCKY DIAGNOSTICS",
+      "date": "2025-06-28",
+      "total": 1275.41,
+      "items": [
+        "Multivitamin Caps",
+        "Consultation Fee",
+        "Antiseptic 100ml aif LCLS",
+        "Face Mask 10pc",
+        "Bandage Roll"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0235",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LANKA FOOTWEAR",
+      "date": "2025-01-15",
+      "total": 12.0,
+      "items": [
+        "CARR BAG a"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0239",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Green Computers",
+      "date": "2026-10-02",
+      "total": 2265.0,
+      "items": [
+        "LPTP SRVC",
+        "ELCTRC KTTL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0241",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "Balaji Footwear",
+      "date": "2025-05-23",
+      "total": 2892.69,
+      "items": [
+        "TRCK PNTS",
+        "SNGLSSS",
+        "SNDLS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0251",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": "2025-08-10",
+      "total": 450.24,
+      "items": [
+        "Thermometer",
+        "Paracetamol 500mg",
+        "Cetirizine 10mg",
+        "Bandage Roll",
+        "Face Mask 10pc"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0261",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": "2026-07-31",
+      "total": 2608.09,
+      "items": [
+        "MOBILE CHARGER",
+        "BUS TICKET",
+        "TOLL CHARGES",
+        "COOLANT 1L",
+        "BIKE SERVICE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0279",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "Singh Medicals",
+      "date": "2026-05-31",
+      "total": 1688.13,
+      "items": [
+        "Poha 500g 1 (50550",
+        "Pain Relief Gel",
+        "Photocopy",
+        "Blood Test CBC",
+        "Cough Syrup 100ml",
+        "Thyroid Profile"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0292",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Silver Fresh Mart",
+      "date": "2025-04-02",
+      "total": 406.61,
+      "items": [
+        "Milk 1L",
+        "Poha 500g",
+        "Toothpaste 150g",
+        "Paneer 200g"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0297",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Dubey Enterprises",
+      "date": "2025-06-16",
+      "total": 544.96,
+      "items": [
+        "INSTANT NOODLES",
+        "RAJMA 1KG",
+        "BUTTER 500G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0301",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "SANKAT MOCHAN RESTAURANT",
+      "date": "2026-10-19",
+      "total": 162.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0303",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Lanka Enterprises",
+      "date": "2026-06-21",
+      "total": 69.3,
+      "items": [
+        "BESAN 500G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0317",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Reddy Petroleum",
+      "date": "2025-04-02",
+      "total": 14.12,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0323",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": "2025-09-22",
+      "total": 779.0,
+      "items": [
+        "Chole Bhature",
+        "Paneer Butter Masala Le",
+        "Samosa",
+        "Carry Bag"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0328",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-06-16",
+      "total": 916.16,
+      "items": [
+        "THYROID PROFILE 1)",
+        "ORS SACHET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0334",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GOEL & SONS",
+      "date": "2026-01-06",
+      "total": 2738.0,
+      "items": [
+        "EVNT PSS",
+        "CNVNNC FEE",
+        "GMNG 1 HR",
+        "NCHS",
+        "ARCD TKNS",
+        "BWLNG GM"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0342",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Prince Multiplex",
+      "date": "2026-07-29",
+      "total": 1570.58,
+      "items": [
+        "Gaming 1 Hour",
+        "Board Game Session",
+        "Bowling Game"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0347",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "APNA BOARD GAME CAFE",
+      "date": "2025-06-08",
+      "total": 361.08,
+      "items": [
+        "COOLANT 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0360",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "VERMA & SONS",
+      "date": "2025-10-03",
+      "total": 1725.16,
+      "items": [
+        "Azithromycin 500mg",
+        "Keyboard",
+        "Wireless Mouse"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0362",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Medical & General Store",
+      "date": "2026-04-16",
+      "total": 3559.0,
+      "items": [
+        "VITA C TABL",
+        "OUTS CAB",
+        "ANTI 100M",
+        "COLD DRIN 600M",
+        "AZIT 500M"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0363",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-08-28",
+      "total": 373.79,
+      "items": [
+        "Cough Syrup 100ml 1 \u201c132500",
+        "Chocolate 2)",
+        "Carry Bag"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0393",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": "2026-07-04",
+      "total": 218.0,
+      "items": [
+        "Thermometer L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0417",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GREEN SERVICE STATION",
+      "date": "2025-12-06",
+      "total": 2544.0,
+      "items": [
+        "Waiting Charges",
+        "Mineral Water 1L",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0420",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-03-30",
+      "total": 767.2,
+      "items": [
+        "Consultation Fee",
+        "Refined Oil 1L",
+        "Bandage Roll L",
+        "ORS Sachet",
+        "Cetirizine 10mg",
+        "Paracetamol 500mg"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0424",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2026-07-06",
+      "total": 230.72,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0425",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Digital World",
+      "date": "2026-05-10",
+      "total": 3360.0,
+      "items": [
+        "MINERAL WATER 1L",
+        "MOBILE COVER",
+        "MOBILE REPAIR",
+        "ELECTRIC KETTLE",
+        "MOBILE CHARGER",
+        "TURMERIC 100G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0427",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": "2026-03-11",
+      "total": 577.0,
+      "items": [
+        "DAL MAKHANI",
+        "ALOO PARATHA",
+        "PARACETAMOL 500MG",
+        "KACHORI SABZI"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0431",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": "2025-09-17",
+      "total": 672.0,
+      "items": [
+        "Rasmalai",
+        "Butter Naan",
+        "Gulab Jamun",
+        "Jeera Rice T0129=00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0437",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "LOTUS ENTERPRISES",
+      "date": "2026-08-04",
+      "total": 2200.7,
+      "items": [
+        "Power Bank",
+        "Mobile Cover"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0444",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Durga Broadband",
+      "date": "2025-06-30",
+      "total": 858.0,
+      "items": [
+        "PHTCPY",
+        "CHPS",
+        "RTR RNTL",
+        "DTH RCHRG 1",
+        "MNRL WTR 1L 22\u00b0 (23300"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0457",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LOTUS AUTO CENTRE",
+      "date": "2025-05-06",
+      "total": 1983.58,
+      "items": [
+        "Turmeric 100g i",
+        "Engine Oil 1L",
+        "Puncture Repair a",
+        "Brake Pad Set"
+      ],
+      "gstin": "09XCGNA5352D1Z3"
+    }
+  },
+  {
+    "id": "test_0460",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "STAR ENTERPRISES",
+      "date": "2026-06-09",
+      "total": 547.0,
+      "items": [
+        "TURMERIC 100G",
+        "EGGS 12PC",
+        "SUGAR 1KG 1)",
+        "TEA 250G",
+        "BATH SOAP 4PC",
+        "CHIPS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0468",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "Galaxy Centre",
+      "date": "2025-11-18",
+      "total": 1648.0,
+      "items": [
+        "Carry Bag",
+        "Parking Fee",
+        "Coolant 1L",
+        "Towel Set",
+        "DTH Recharge"
+      ],
+      "gstin": "09JNURB8591V1Z9"
+    }
+  },
+  {
+    "id": "test_0472",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "CITY ASSOCIATES",
+      "date": "2025-12-22",
+      "total": 1375.0,
+      "items": [
+        "WAITING CHARGES",
+        "BRAKE PAD SET",
+        "CAR WASH"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0496",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": "2025-01-02",
+      "total": 740.0,
+      "items": [
+        "DAL MAKHANI",
+        "KACHORI SABZI",
+        "GULAB JAMUN",
+        "BUTTER NAAN",
+        "PANEER TIKKA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0507",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "KULKARNI ENTERPRISES",
+      "date": "2026-02-24",
+      "total": 2515.0,
+      "items": [
+        "VR RIDE",
+        "WATER PARK ENTRY",
+        "EVENT PASS",
+        "CARRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0519",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Bill Payment Centre",
+      "date": "2025-12-18",
+      "total": 2106.75,
+      "items": [
+        "PRNTT",
+        "PSTPD BLL",
+        "BK SRVC",
+        "PHTCPY",
+        "DTH RCHRG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0521",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "NEW POINT",
+      "date": "2025-07-02",
+      "total": 64.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0522",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": "2026-10-15",
+      "total": 5156.0,
+      "items": [
+        "Azithromycin 500mg 1 -asl00",
+        "Mineral Water 1L",
+        "ORS Sachet",
+        "Carry Bag",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0536",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "MALHOTRA CLOTH HOUSE",
+      "date": "2026-04-30",
+      "total": 4280.0,
+      "items": [
+        "WINT JACK",
+        "LEAT BELT",
+        "T-SH",
+        "BEDS DOUB"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0556",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "LANKA CYBER CAFE",
+      "date": "2025-02-17",
+      "total": 2185.36,
+      "items": [
+        "LPG CYLINDER REFILL",
+        "DTH RECHARGE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0561",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Silver Agencies",
+      "date": "2025-03-26",
+      "total": 145.6,
+      "items": [
+        "MNRL WTR 1L",
+        "ORS SCHT"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0567",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-12-11",
+      "total": 378.56,
+      "items": [
+        "BLOOD TEST CBC"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0571",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Bharat Computers",
+      "date": "2025-09-23",
+      "total": 2388.0,
+      "items": [
+        "WIRELESS MOUSE",
+        "POWER BANK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0573",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": "2026-08-04",
+      "total": 2901.62,
+      "items": [
+        "DTH RECHARGE",
+        "LATE PAYMENT FEE",
+        "DATA PACK",
+        "BROADBAND BILL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0575",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": "2025-01-15",
+      "total": 1650.53,
+      "items": [
+        "ROUTER RENTAL",
+        "CARRY BAG aL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0584",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": "2025-05-09",
+      "total": 3236.45,
+      "items": [
+        "Chips",
+        "Mineral Water 1L",
+        "Extension Board",
+        "Electric Kettle"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0586",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": null,
+      "total": 8779.49,
+      "items": [
+        "Mobile Cover lL",
+        "Ceiling Fan",
+        "Milk 1L",
+        "Concert Ticket"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0594",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GOLDEN BOARD GAME CAFE",
+      "date": "2025-06-10",
+      "total": 5988.5,
+      "items": [
+        "Carry Bag",
+        "Concert Ticket",
+        "Convenience Fee"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0596",
+    "level": "clean",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "BALAJI DAILY NEEDS",
+      "date": "2025-02-04",
+      "total": 1431.0,
+      "items": [
+        "PWR BNK",
+        "PH 500G",
+        "PNR 200G",
+        "LT PYMNT FEE"
+      ],
+      "gstin": "09GLWJJ8909G1Z8"
+    }
+  },
+  {
+    "id": "test_0000",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ASSI COMPUTERS",
+      "date": "2025-03-05",
+      "total": 1014.0,
+      "items": [
+        "Keyboard"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0007",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SRI MART",
+      "date": "2026-06-02",
+      "total": 4632.0,
+      "items": [
+        "KURTA SET",
+        "MINERAL WATER 1L",
+        "KIDS FROCK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0009",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Metro Agencies",
+      "date": "2025-12-17",
+      "total": 4667.6,
+      "items": [
+        "TWL SET",
+        "WNTR JCKT",
+        "LTHR BLT",
+        "BOSHT DBL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0012",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Sunrise Fresh Mart",
+      "date": "2026-04-30",
+      "total": 231.52,
+      "items": [
+        "Bread",
+        "Refined Oil 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0016",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Menon & Sons",
+      "date": "2026-07-16",
+      "total": 2275.75,
+      "items": [
+        "Basmati Rice 5kg",
+        "Cotton Shirt",
+        "Multivitamin Caps",
+        "Instant Noodles",
+        "Mustard Oil 1L",
+        "Mineral Water 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0021",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": "2025-05-24",
+      "total": 289.99,
+      "items": [
+        "CHIPS",
+        "WAITING CHARGES",
+        "PUNCTURE REPAIR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0033",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "MAURYA ENTERPRISES",
+      "date": "2025-02-11",
+      "total": 996.25,
+      "items": [
+        "SANDALS",
+        "DUPATTA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0041",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "OM MART",
+      "date": "2026-07-20",
+      "total": 3510.64,
+      "items": [
+        "SOCK 3 PAIR",
+        "SPOR SHOE",
+        "COTT SHIR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0047",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "NAIR & SONS",
+      "date": "2026-10-30",
+      "total": 266.0,
+      "items": [
+        "Carry Bag",
+        "Rasmalai",
+        "Mineral Water 1L",
+        "Masala Chai",
+        "Chole Bhature",
+        "Samosa EES 0 7 4."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0062",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "ROYAL GAS AGENCY",
+      "date": "2025-03-18",
+      "total": 82.25,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0068",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BHARAT DIGITAL WORLD",
+      "date": null,
+      "total": 780.0,
+      "items": [
+        "Mobile Repair"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0089",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "New Store",
+      "date": "2026-03-31",
+      "total": 160.16,
+      "items": [
+        "Paracetamol 500mg",
+        "Pantoprazole 40mg"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0100",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SRI POINT",
+      "date": "2026-09-17",
+      "total": 4289.0,
+      "items": [
+        "AIR FLTR",
+        "BK SRVC",
+        "CLNT 1L",
+        "OTSTITN CAB",
+        "WTNG CHRGS",
+        "CRRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0103",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Sankat Mochan Supermarket",
+      "date": "2026-07-29",
+      "total": 592.25,
+      "items": [
+        "CHPS",
+        "PNR 200G",
+        "CLD DRNK 600ML",
+        "PTT 2KG",
+        "RFND OIL 1L",
+        "TTHPST 150G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0118",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "DESAI PETROLEUM",
+      "date": "2025-12-25",
+      "total": 2500.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0126",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "New Store",
+      "date": "2025-02-20",
+      "total": 640.93,
+      "items": [
+        "Chips",
+        "ORS Sachet",
+        "Toll Charges",
+        "Cough Syrup 100m1",
+        "Bandage Roll"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0129",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Agarwal Petroleum",
+      "date": "2026-08-04",
+      "total": 132.5,
+      "items": [
+        "Cough Syrup 100m1"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0131",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BALAJI POINT",
+      "date": "2025-05-26",
+      "total": 1187.5,
+      "items": [
+        "CHIP",
+        "VITA C TABL",
+        "BLOO TEST CBC",
+        "THYR PROF",
+        "CETI 10MG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0132",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GUPTA ELECTRICALS",
+      "date": "2026-02-23",
+      "total": 817.74,
+      "items": [
+        "EXTNSN BRD"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0144",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Saxena Brothers",
+      "date": "2026-01-27",
+      "total": 5105.52,
+      "items": [
+        "DUPATTA",
+        "TRACK PANTS",
+        "HANDBAG",
+        "LEATHER BELT",
+        "KURTA SET",
+        "SOCKS 3 PAIR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0145",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Bharat Associates",
+      "date": "2026-08-24",
+      "total": 751.0,
+      "items": [
+        "PRNTT",
+        "DTH RCHRG",
+        "DT PCK",
+        "PRPD RCHRG",
+        "TTHPST 150G",
+        "CRRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0149",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Jai Mata Di Chemist & Druggist",
+      "date": "2026-02-15",
+      "total": 992.03,
+      "items": [
+        "PARACETAMOL SOOMG",
+        "COUGH SYRUP 100ML",
+        "PAIN RELIEF GEL 3 Neen ep ae",
+        "ANTISEPTIC 100ML",
+        "THYROID PROFILE 1+536,56"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0152",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ANNAPURNA SUPERMARKET",
+      "date": "2025-11-17",
+      "total": 87.16,
+      "items": [
+        "INST NOOD"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0154",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "VISHWANATH ENTERPRISES",
+      "date": "2025-05-12",
+      "total": 4349.0,
+      "items": [
+        "MV TCKT CLSSC",
+        "BRD GM SSSN",
+        "WTR PRK ENTRY",
+        "MV TCKT RCLNR",
+        "BSMT RC 5KG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0169",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "SAI BROADBAND",
+      "date": "2026-10-12",
+      "total": 1608.0,
+      "items": [
+        "Late Payment Fee",
+        "Water Bill",
+        "Router Rental"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0175",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": "2025-01-28",
+      "total": 2336.03,
+      "items": [
+        "LPG Cylinder Refill",
+        "Pain Relief Gel",
+        "Consultation Fee",
+        "Bandage Roll",
+        "Thermometer"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0177",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "NATIONAL ENTERPRISES",
+      "date": "2025-10-08",
+      "total": 857.86,
+      "items": [
+        "MASALA CHAI",
+        "ALOO PARATHA",
+        "CHOCOLATE",
+        "CHICKEN BIRYANI",
+        "MASALA DOSA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0188",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Golden Cab Services",
+      "date": "2026-08-28",
+      "total": 2419.58,
+      "items": [
+        "PANEER BUTTER MASALA",
+        "TOLL CHARGES",
+        "BIKE SERVICE",
+        "POHA",
+        "BUS TICKET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0195",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Lanka Agencies",
+      "date": "2026-06-14",
+      "total": 647.36,
+      "items": [
+        "ORS SCHT",
+        "CNSLTTN FEE",
+        "CHCLT"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0197",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "JAI MATA DI AUTO CENTRE",
+      "date": "2025-01-26",
+      "total": 3179.5,
+      "items": [
+        "Toll Charges",
+        "Socks 3 Pair",
+        "Puncture Repair",
+        "Air Filter",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0220",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "SIGRA CINEMAS",
+      "date": null,
+      "total": 3180.0,
+      "items": [
+        "Chocolate",
+        "Event Pass",
+        "Gaming 1 Hour",
+        "Cold Drink 600m1",
+        "Nachos"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0233",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "LUCKY DIAGNOSTICS",
+      "date": "2025-06-28",
+      "total": 1275.41,
+      "items": [
+        "Multivitamin Caps",
+        "Consultation Fee",
+        "Antiseptic 100ml s Tier er 2",
+        "Face Mask 10pc",
+        "Bandage Roll"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0235",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LANKA FOOTWEAR",
+      "date": "2025-01-15",
+      "total": 12.0,
+      "items": [
+        "CARR BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0239",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Green Computers",
+      "date": "2026-10-02",
+      "total": 2265.0,
+      "items": [
+        "LPTP SRVC",
+        "ELCTRC KTTL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0241",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Balaji Footwear",
+      "date": "2025-05-23",
+      "total": 2892.69,
+      "items": [
+        "TRCK PNTS",
+        "CHPS",
+        "SNGLSSS",
+        "SNOLS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0251",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": "2025-08-10",
+      "total": 450.24,
+      "items": [
+        "Mineral Water 1L",
+        "Thermometer",
+        "Paracetamol 500mg",
+        "Cetirizine 10mg",
+        "Bandage Roll",
+        "Face Mask 10pc"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0261",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": "2026-07-31",
+      "total": 2608.0,
+      "items": [
+        "MOBILE CHARGER",
+        "BUS TICKET",
+        "TOLL CHARGES",
+        "COOLANT 1L",
+        "BIKE SERVICE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0279",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Singh Medicals",
+      "date": "2026-05-31",
+      "total": 1688.13,
+      "items": [
+        "Poha 500g",
+        "Pain Relief Gel",
+        "Photocopy",
+        "Blood Test CBC",
+        "Cough Syrup 100ml",
+        "Thyroid Profile"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0292",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "Silver Fresh Mart",
+      "date": "2025-04-02",
+      "total": 406.61,
+      "items": [
+        "Poha 500g",
+        "Toothpaste 150g",
+        "Paneer 200g"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0297",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Dubey Enterprises",
+      "date": "2025-06-16",
+      "total": 544.96,
+      "items": [
+        "RAJMA 1KG",
+        "BUTTER"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0301",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SANKAT MOCHAN RESTAURANT",
+      "date": "2026-10-19",
+      "total": 102.0,
+      "items": [
+        "TAND ROTI"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0303",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Lanka Enterprises",
+      "date": "2026-06-21",
+      "total": 69.3,
+      "items": [
+        "BESAN 500G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0317",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Reddy Petroleum",
+      "date": null,
+      "total": 1379.13,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0323",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": "2025-09-22",
+      "total": 779.0,
+      "items": [
+        "Chole Bhature",
+        "Paneer Butter Masala",
+        "Samosa",
+        "Carry Bag",
+        "Chicken Biryani 2 Ear AP a."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0328",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-06-16",
+      "total": 916.16,
+      "items": [
+        "THYROID PROFILE",
+        "ORS SACHET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0334",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "GOEL & SONS",
+      "date": "2026-01-06",
+      "total": 2738.0,
+      "items": [
+        "EVNT PSS",
+        "CNVNNC FEE 1 \u00b063,25",
+        "GMNG 1 HR",
+        "NCHS",
+        "ARCD TKNS",
+        "BWLNG GM"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0342",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Prince Multiplex",
+      "date": "2026-07-29",
+      "total": 1570.58,
+      "items": [
+        "Gaming 1 Hour",
+        "Board Game Session",
+        "Bowling Game"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0347",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "APNA BOARD GAME CAFE",
+      "date": "2025-06-08",
+      "total": 361.08,
+      "items": [
+        "COOLANT 1L"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0360",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "VERMA & SONS",
+      "date": null,
+      "total": 1725.16,
+      "items": [
+        "Azithromycin 500mg",
+        "HOMI Cable",
+        "Keyboard",
+        "Wireless Mouse"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0362",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Medical & General Store",
+      "date": "2026-04-16",
+      "total": 3559.0,
+      "items": [
+        "VITA C TABL",
+        "OUTS CAB",
+        "ANTI 100M",
+        "COLD DRIN 600M",
+        "AZIT 500M"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0363",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-08-28",
+      "total": 373.79,
+      "items": [
+        "Cough Syrup 100ml",
+        "Chocolate",
+        "Carry Bag"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0393",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": "2026-07-04",
+      "total": 218.0,
+      "items": [
+        "Thermometer"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0417",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GREEN SERVICE STATION",
+      "date": "2025-12-06",
+      "total": 2544.0,
+      "items": [
+        "Waiting Charges",
+        "Mineral Water 1L P ater {Fy",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0420",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-03-30",
+      "total": 767.2,
+      "items": [
+        "Consultation Fee",
+        "Refined Oil 1L",
+        "Bandage Roll",
+        "ORS Sachet",
+        "Cetirizine 10mg",
+        "Paracetamol 500mg"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0424",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2026-07-06",
+      "total": 230.72,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0425",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Digital World",
+      "date": "2026-05-10",
+      "total": 3360.0,
+      "items": [
+        "MINERAL WATER 1L",
+        "MOBILE COVER",
+        "MOBILE REPAIR",
+        "ELECTRIC KETTLE",
+        "MOBILE CHARGER",
+        "TURMERIC 100G"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0427",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": "2026-03-11",
+      "total": 577.0,
+      "items": [
+        "DAL MAKHANI",
+        "ALOO PARATHA p Ree\u201d Sy",
+        "PARACETAMOL 500MG",
+        "KACHORI SABZI"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0431",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": "2025-09-17",
+      "total": 672.0,
+      "items": [
+        "Paneer Tikka",
+        "Rasmalai",
+        "Butter Naan",
+        "Gulab Jamun",
+        "Jeera Rice"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0437",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "LOTUS ENTERPRISES",
+      "date": "2026-08-04",
+      "total": 2200.7,
+      "items": [
+        "Power Bank",
+        "Mobile Cover"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0444",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Durga Broadband",
+      "date": "2025-06-30",
+      "total": 858.0,
+      "items": [
+        "PHTCPY",
+        "CHPS",
+        "RTR RNTL",
+        "DTH RCHRG",
+        "MNRL WTR 1L 2 2a."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0457",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LOTUS AUTO CENTRE",
+      "date": "2025-05-06",
+      "total": 1983.58,
+      "items": [
+        "Turmeric 100g I",
+        "Engine Oil 1L",
+        "Puncture Repair",
+        "Brake Pad Set"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0460",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "STAR ENTERPRISES",
+      "date": "2026-06-09",
+      "total": 547.0,
+      "items": [
+        "TURMERIC 100G LS",
+        "EGGS 12PC 4:92.29",
+        "SUGAR 1KG",
+        "TEA 250G",
+        "BATH SOAP 4PC",
+        "CHIPS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0468",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Galaxy Centre",
+      "date": "2025-11-18",
+      "total": 1648.0,
+      "items": [
+        "Carry Bag",
+        "Car Wash",
+        "Parking Fee",
+        "Coolant 1L",
+        "Towel Set",
+        "DTH Recharge"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0472",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "CITY ASSOCIATES",
+      "date": "2025-12-22",
+      "total": 1375.0,
+      "items": [
+        "WAITING CHARGES",
+        "BRAKE PAD SET",
+        "CAR WASH"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0496",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": "2025-01-02",
+      "total": 740.0,
+      "items": [
+        "DAL MAKHANI",
+        "KACHORI SABZI",
+        "GULAB JAMUN",
+        "BUTTER NAAN",
+        "PANEER TIKKA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0507",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "KULKARNI ENTERPRISES",
+      "date": "2026-02-24",
+      "total": 2515.0,
+      "items": [
+        "VR RIDE",
+        "WATER PARK ENTRY",
+        "EVENT PASS",
+        "CARRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0519",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Bill Payment Centre",
+      "date": "2025-12-18",
+      "total": 2106.75,
+      "items": [
+        "PRNTT",
+        "PSTPD BLL",
+        "BK SRVC",
+        "PHTCPY",
+        "DTH RCHRG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0521",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "NEW POINT",
+      "date": "2025-07-02",
+      "total": 353.11,
+      "items": [
+        "Late Payment Fee",
+        "Data Pack hy aaesae"
+      ],
+      "gstin": "09ZQWPD2657H1Z8"
+    }
+  },
+  {
+    "id": "test_0522",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": "2026-10-15",
+      "total": 5156.0,
+      "items": [
+        "Azithromycin 500mg",
+        "Mineral Water 1L",
+        "Blood Test CBC",
+        "ORS Sachet",
+        "Carry Bag",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0536",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "MALHOTRA CLOTH HOUSE",
+      "date": "2026-04-30",
+      "total": 4280.0,
+      "items": [
+        "WINT JACK",
+        "LEAT BELT",
+        "T-SH",
+        "BEDS DOUB"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0556",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "LANKA CYBER CAFE",
+      "date": "2025-02-17",
+      "total": 2185.36,
+      "items": [
+        "LPG CYLINDER REFILL",
+        "DTH RECHARGE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0561",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Silver Agencies",
+      "date": "2025-03-26",
+      "total": 145.6,
+      "items": [
+        "MNRL WTR 1L",
+        "ORS SCHT"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0567",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-12-11",
+      "total": 378.56,
+      "items": [
+        "BLOOD TEST CBC"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0571",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Bharat Computers",
+      "date": "2025-09-23",
+      "total": 2388.0,
+      "items": [
+        "WIRELESS MOUSE",
+        "POWER BANK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0573",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": "2026-08-04",
+      "total": 2901.62,
+      "items": [
+        "DTH RECHARGE",
+        "LATE PAYMENT FEE",
+        "DATA PACK",
+        "BROADBAND BILL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0575",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": "2025-01-15",
+      "total": 1650.53,
+      "items": [
+        "ROUTER RENTAL",
+        "CARRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0584",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": "2025-05-09",
+      "total": 3236.45,
+      "items": [
+        "Mobile Repair",
+        "Chips",
+        "Mineral Water 1L 17:25:00",
+        "Extension Board",
+        "Electric Kettle"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0586",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": "2025-11-17",
+      "total": 8779.49,
+      "items": [
+        "Mobile Cover",
+        "Ceiling Fan",
+        "Milk 1L",
+        "Concert Ticket"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0594",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GOLDEN BOARD GAME CAFE",
+      "date": "2025-06-10",
+      "total": 5075.0,
+      "items": [
+        "Carry Bag",
+        "Concert Ticket",
+        "Convenience Fee"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0596",
+    "level": "medium",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "BALAJI DAILY NEEDS",
+      "date": null,
+      "total": 1431.0,
+      "items": [
+        "PWR BNK",
+        "PH 500G",
+        "PNR 200G",
+        "LT PYMNT FEE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0000",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ASSI COMPUTERS",
+      "date": null,
+      "total": 1014.0,
+      "items": [
+        "Keyboard"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0007",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SRI MART",
+      "date": null,
+      "total": 4632.0,
+      "items": [
+        "KURTA SET",
+        "MINERAL WATER IL",
+        "KIDS FROCK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0009",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "Metro Agencies",
+      "date": null,
+      "total": 4667.6,
+      "items": [
+        "TwL SET $70.90",
+        "WNTR JCKT",
+        "LTHR BLT",
+        "BOSHT DBL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0012",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Sunrise Fresh Mart",
+      "date": "2026-04-30",
+      "total": 231.52,
+      "items": [
+        "Bread",
+        "Refined 011 IL",
+        "Sub Totat 220.50"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0016",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Menon & Sons",
+      "date": "2026-07-16",
+      "total": 2275.75,
+      "items": [
+        "Multivitamin Caps",
+        "Instant Noodles \u00ab2",
+        "Mustard Ort IL",
+        "Mineral Water iL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0021",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": null,
+      "total": 283.99,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0033",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "MAURYA ENTERPRISES",
+      "date": null,
+      "total": 996.25,
+      "items": [
+        "SANDALS i $19.09 $19.00",
+        "DUPATTA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0041",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "OM MART",
+      "date": "2026-07-20",
+      "total": 3520.64,
+      "items": [
+        "SOCK 3 PAIR",
+        "SPOR SHOE",
+        "COTT SHIR 2 1291,.25 \u00a9 1291.25"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0047",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "NAIR & SONS",
+      "date": null,
+      "total": 266.68,
+      "items": [
+        "Carry Bag",
+        "Rasmelei",
+        "Mineral Water 1L",
+        "Masala Chai",
+        "Chole Bhature",
+        "Samosa 2. 47.75 at",
+        "Sub Totat"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0062",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "ROYAL GAS AGENCY",
+      "date": "2025-03-18",
+      "total": null,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0068",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BHARAT DIGITAL WORLD",
+      "date": null,
+      "total": 780.0,
+      "items": [
+        "Mobile Repair"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0089",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "New Store",
+      "date": "2026-03-31",
+      "total": 160.16,
+      "items": [
+        "Paracetamol S0Gng i- 34.06 34.00",
+        "Panteprarole 400g"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0100",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "SRI POINT",
+      "date": null,
+      "total": 4289.06,
+      "items": [
+        "SIR FUTR",
+        "BK SRYC ; <1.",
+        "OT mR.",
+        "OTSTTN CAB",
+        "WIG CHRGS",
+        "CRRY BAG | fp Bae"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0103",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Sankat Mochan Supermarket",
+      "date": "2026-07-29",
+      "total": 592.25,
+      "items": [
+        "RENO OTL IL",
+        "TTHPST"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0118",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "DESAI PETROLEUM",
+      "date": "2025-12-25",
+      "total": 2506.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0126",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "New Store",
+      "date": "2025-02-20",
+      "total": 640.93,
+      "items": [
+        "Chips",
+        "ORS Sachet S",
+        "Toll Charges",
+        "Cough Syrup 100mi",
+        "Bandage Roll 2 . 46.50 93,00",
+        "Sub Totat . 572,25"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0129",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Agarwal Petroleum",
+      "date": "2026-08-04",
+      "total": 132.56,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0131",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "BALAJI POINT",
+      "date": null,
+      "total": 1187.5,
+      "items": [
+        "CHIP",
+        "VITA CTAB",
+        "BLOOD TEST Cac",
+        "TYR PROF",
+        "CeTI 10m"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0132",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GUPTA ELECTRICALS",
+      "date": "2026-02-23",
+      "total": 817.74,
+      "items": [
+        "EXTNSN BRD i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0144",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Saxena Brothers",
+      "date": null,
+      "total": 8558.58,
+      "items": [
+        "DUPATTA",
+        "TRACK PANTS",
+        "HANDBAG",
+        "KURTA SET 595 685.60\u00b03",
+        "SOCKS 3. PAIR 150.90"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0145",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Bharat Associates",
+      "date": "2026-08-24",
+      "total": 751.0,
+      "items": [
+        "PRNTT",
+        "OTH RCHAG",
+        "OT PCK",
+        "PRPD RCHRG",
+        "TTHPST",
+        "CRRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0149",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Jai Mata Di Chemist & Druggist",
+      "date": null,
+      "total": 1115.0,
+      "items": [
+        "PARACETAMOL SOOMG 3 26,00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0152",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "ANNAPURNA SUPERMARKET",
+      "date": null,
+      "total": 87.16,
+      "items": [
+        "INST HOOD"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0154",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.2,
+    "pred": {
+      "merchant": "VISHWANATH ENTERPRISES",
+      "date": "2025-05-12",
+      "total": 8349.0,
+      "items": [
+        "BSMT RC SKG i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0169",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "SAI BROADBAND",
+      "date": "2026-10-12",
+      "total": 1668.0,
+      "items": [
+        "Late Payment Fee 1 109.00",
+        "Water Bill.",
+        "Router Rental"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0175",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": null,
+      "total": 2336.03,
+      "items": [
+        "LPG Cylinder Refit",
+        "Pain Relief Gel",
+        "Consultation Fee",
+        "Bandage Roll \u00ab2 : $8.00",
+        "Thermometer"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0177",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "NATIONAL ENTERPRISES",
+      "date": "2025-10-08",
+      "total": 857.86,
+      "items": [
+        "HASALA CHAI",
+        "ALOO PARATHA",
+        "CHOCOLATE x2 Ae",
+        "CHICKEN BIRVANI",
+        "MASALA DOSA",
+        "SUST"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0188",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Golden Cab Services",
+      "date": "2026-08-28",
+      "total": 2419.58,
+      "items": [
+        "PANEER BUTTER MASALA",
+        "TOLL CHARGES",
+        "BIKE SERVICE",
+        "POHA $00G",
+        "BUS TICKET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0195",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Lanka Agencies",
+      "date": "2026-06-14",
+      "total": 427.06,
+      "items": [
+        "ORS SCHT"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0197",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "JAI MATA DI AUTO CENTRE",
+      "date": "2025-01-26",
+      "total": 3379.5,
+      "items": [
+        "Toll Charges",
+        "Socks 3 Pair",
+        "Pyncture Repair",
+        "Air Filter",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0220",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "SIGRA CINEMAS",
+      "date": null,
+      "total": 3180.0,
+      "items": [
+        "Chocolete",
+        "Event Pats",
+        "Memory Cara",
+        "Gastiing 1 Hour",
+        "Cols Drink 600m)",
+        "5 Wachss"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0233",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LUCKY DIAGNOSTICS",
+      "date": "2025-06-28",
+      "total": 1275.41,
+      "items": [
+        "Multivitamin Caps",
+        "Consultation Fee I",
+        "Antiseptic 100m. > ae bey 2",
+        "Face Mask 10pc t",
+        "Bandage Roll i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0235",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LANKA FOOTWEAR",
+      "date": null,
+      "total": 12.06,
+      "items": [
+        "CARR BAG",
+        "SOST"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0239",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Green Computers",
+      "date": "2026-02-20",
+      "total": 2265.0,
+      "items": [
+        "LPTP SRVC t",
+        "ELCTRC KTTL",
+        "Sub Totat"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0241",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.25,
+    "pred": {
+      "merchant": "Balaji Footwear",
+      "date": null,
+      "total": 2892.69,
+      "items": [
+        "TROK PHTS.",
+        "CHPS",
+        "b SNOLS",
+        "Sub Fetal As",
+        "EA COST GOB",
+        "S6ST e6"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0251",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SILVER CHEMIST & DRUGGIST",
+      "date": null,
+      "total": 450.24,
+      "items": [
+        "Mineral Water 1L",
+        "Thermometer",
+        "Paracetamol 500mg",
+        "Cetirizine 10mg",
+        "Bandage Rolt",
+        "Face Mask 10pc"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0261",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Annapurna Fuels",
+      "date": "2026-07-31",
+      "total": 2698.0,
+      "items": [
+        "MOBILE CHARGER",
+        "BUS TICKET",
+        "TOLL. CHARGES",
+        "COOLANT IL 1",
+        "BIKE SERVICE",
+        "S$6ST"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0279",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Singh Medicals",
+      "date": "2026-05-31",
+      "total": 1668.13,
+      "items": [
+        "Pona 5009 1 $0.50",
+        "Pain Relief Gel 1 133.00 \u2014:133.00",
+        "Photocopy 38 3.00 ~\u2014\u00ab114.00",
+        "Blood Test CBC",
+        "Cough Syrup 100m1",
+        "Thyroid Profile"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0292",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Silver Fresh Mart",
+      "date": "2025-04-02",
+      "total": 406.61,
+      "items": [
+        "Poha",
+        "Toothpaste 150g",
+        "Paneer 200g"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0297",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Dubey Enterprises",
+      "date": null,
+      "total": 544.96,
+      "items": [
+        "INSTANT NOOOLES",
+        "RAIMA 1KG",
+        "BUTTER"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0301",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "SANKAT MOCHAN RESTAURANT",
+      "date": "2026-10-19",
+      "total": 102.9,
+      "items": [
+        "TANO ROTI"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0303",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Lanka Enterprises",
+      "date": "2026-06-21",
+      "total": 69.3,
+      "items": [
+        "BESAN 5906 1 86,00 66.00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0317",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Reddy Petroleum",
+      "date": "2025-04-02",
+      "total": 1379.13,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0323",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.4,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": null,
+      "total": 1277.25,
+      "items": [
+        "Chole Bhature",
+        "Paneer Gutter Maseis",
+        "Samosa d",
+        "arry Bay ; i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0328",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-06-16",
+      "total": 916.16,
+      "items": [
+        "THYROID PROFILE",
+        "ORS SACHET"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0334",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GOEL & SONS",
+      "date": "2026-01-06",
+      "total": 2738.25,
+      "items": [
+        "EvNT PSS",
+        "CHVNNC FEE",
+        "GMNG 1 HR",
+        "NCHS",
+        "ARCD TKNS",
+        "BWLNG GH"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0342",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Prince Multiplex",
+      "date": null,
+      "total": 70.58,
+      "items": [
+        "Gaming 1 Hour",
+        "Board Game Session",
+        "Bowling Game"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0347",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "APNA BOARD GAME CAFE",
+      "date": null,
+      "total": 306.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0360",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "VERMA & SONS",
+      "date": "2025-10-03",
+      "total": 225.16,
+      "items": [
+        "iettheoeveda 500mg",
+        "HOMI Cable",
+        "Keyboard",
+        "Wireless Mouse",
+        "Sub Totat"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0362",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.8,
+    "pred": {
+      "merchant": "Assi Medical & General Store",
+      "date": "2026-04-16",
+      "total": 3178.0,
+      "items": [
+        "VITA \u00a9 TABL",
+        "OUTS CAB",
+        "ANTI 100M",
+        "COLD ORIN GOOM",
+        "AZIT 500M"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0363",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.25,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-08-28",
+      "total": 373.98,
+      "items": [
+        "Cough Syrup 100m. - 1 -132.0",
+        "Checolete",
+        "terry Bag",
+        "i COST e6%."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0393",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": null,
+      "total": 218.0,
+      "items": [
+        "Thermometer",
+        "Sub Totat"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0417",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "GREEN SERVICE STATION",
+      "date": null,
+      "total": 2544.99,
+      "items": [
+        "Waiting Charges",
+        "Mineral Water 1L",
+        "Outstation Cab"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0420",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "BHARAT MEDICAL & GENERAL STORE",
+      "date": "2026-03-30",
+      "total": 767.2,
+      "items": [
+        "Consultation Fee",
+        "Refined",
+        "Bandage Roll 2 $2.06",
+        "ORS Sachet",
+        "Cetirizine long tr",
+        "Paracetamol S00my",
+        "Sub Totel"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0424",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": null,
+      "total": 230.72,
+      "items": [
+        "Sub Totel"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0425",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "Assi Digital World",
+      "date": "2026-05-10",
+      "total": 3369.0,
+      "items": [
+        "MINERAL WATER IL",
+        "MOBILE COVER",
+        "MOBILE REPAIR",
+        "BLECTRIC KETTLE",
+        "MOBILE. CHARGER",
+        "i TURMERIC",
+        "CGS os",
+        "S6ST ek"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0427",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.75,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": null,
+      "total": 577.0,
+      "items": [
+        "DAL MAKHANT",
+        "ALOO PARATHA 2. $2.75",
+        "PARACETAMOL SOOM 2. 25.00 $8.00",
+        "KACHORI SABZI"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0431",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6,
+    "pred": {
+      "merchant": "Menon Sweets",
+      "date": "2025-09-17",
+      "total": 672.0,
+      "items": [
+        "Paneer Tikke",
+        "Rasealai 2",
+        "Butter Naan i",
+        "Guled Jenun",
+        "Jeera Rice 1. 123.00 =\u2014-:129..80",
+        "CGS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0437",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "LOTUS ENTERPRISES",
+      "date": "2026-08-04",
+      "total": 2206.78,
+      "items": [
+        "Power Bank",
+        "Mobile Cover"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0444",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6,
+    "pred": {
+      "merchant": "Durga Broadband",
+      "date": "2025-06-30",
+      "total": 858.0,
+      "items": [
+        "PHTCPY 40.)\u2014C\u00aba SO",
+        "CHPS 2",
+        "RTR RNTL",
+        "DTH RCHRG",
+        "MARL WTR OL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0457",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.25,
+    "pred": {
+      "merchant": "LOTUS AUTO CENTRE",
+      "date": "2025-05-06",
+      "total": 1983.58,
+      "items": [
+        "Turmeric 106g i \u00a7=639..60",
+        "Engine Oit IL 1 508.00 506.00",
+        "Puncture Repeir",
+        "Brake Pad Set 1.-16055:00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0460",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "STAR ENTERPRISES",
+      "date": "2026-06-09",
+      "total": 547.0,
+      "items": [
+        "TURMERIC",
+        "EGGS 12PC t",
+        "SUGAR 1KG",
+        "TEA",
+        "BATH SOAP 4PC",
+        "CHIPS 2"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0468",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Galaxy Centre",
+      "date": "2025-11-18",
+      "total": 1397.0,
+      "items": [
+        "Carry Bag",
+        "Car Wash",
+        "Parking Fee",
+        "Coolant IL",
+        "Towel Set",
+        "DTH Recharge"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0472",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "CITY ASSOCIATES",
+      "date": "2025-12-22",
+      "total": 1375.0,
+      "items": [
+        "WAITING CHARGES",
+        "BRAKE PAD SET",
+        "CAR WASH",
+        "CGOST @9% 104.89"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0496",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Srivastava Traders",
+      "date": "2025-01-02",
+      "total": 740.9,
+      "items": [
+        "DAL MAKHANT",
+        "KACHORI SABZI",
+        "GULAB JAMUN",
+        "BUTTER NAAN",
+        "PANEER TIKKA"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0507",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "KULKARNI ENTERPRISES",
+      "date": null,
+      "total": 2131.0,
+      "items": [
+        "VR RIDE",
+        "WATER PARK ENTRY 1. $70.00",
+        "EVENT PASS",
+        "CARRY. BAG i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0519",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Assi Bill Payment Centre",
+      "date": "2025-12-18",
+      "total": 2106.75,
+      "items": [
+        "PRNTT",
+        "PSTPD BLL",
+        "BK SAVC",
+        "PHTCPY",
+        "OTH RCHRG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0521",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "NEW POINT",
+      "date": null,
+      "total": 353.11,
+      "items": [
+        "Late Payment Fee",
+        "Data Pack",
+        "Sub Totat"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0522",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.8333333333333334,
+    "pred": {
+      "merchant": "Om Medical & General Store",
+      "date": "2026-10-15",
+      "total": 5156.0,
+      "items": [
+        "Azithromycin 560mg 1 211.00 \u201c111.00",
+        "Mineral Water IL",
+        "Blood Test CBC 1 350.25",
+        "ORS Sachet",
+        "Carry Bag",
+        "Outstation Cab",
+        "Sub Totet 4603.75",
+        "COST Gee"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0536",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "MALHOTRA CLOTH HOUSE",
+      "date": "2026-04-30",
+      "total": 4280.0,
+      "items": [
+        "WINT JACK",
+        "LEAT BELT",
+        "T-SH I",
+        "BEDS DOUB"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0556",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "LANKA CYBER CAFE",
+      "date": "2025-02-17",
+      "total": 2185.36,
+      "items": [
+        "LPG CYLINDER REFILL",
+        "DTH RECHARGE",
+        "PREPAIO RECHARGE",
+        "C6ST GW"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0561",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Silver Agencies",
+      "date": null,
+      "total": 145.6,
+      "items": [
+        "MRL WTR UL 1 25.00 25.00",
+        "ORS SCHT 5: 21.00 165,00.)",
+        "Sub Teta} 130,00.)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0567",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.0,
+    "pred": {
+      "merchant": "Modern Agencies",
+      "date": "2025-12-11",
+      "total": 378.56,
+      "items": [
+        "BLOOD TEST CBC 1 268.00 268.00",
+        "COST 96% 20.28",
+        "56ST @6% : \u201c20.28 i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0571",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Bharat Computers",
+      "date": "2025-09-23",
+      "total": 2388.69,
+      "items": [
+        "WIRELESS MOUSE",
+        "POWER BANK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0573",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.6,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": null,
+      "total": 2981.62,
+      "items": [
+        "DTH RECHARGE i $86.00",
+        "LATE PAYMENT FEE 2 97.90 $7.00.",
+        "DATA PACK",
+        "BROADBAND BILL - i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0575",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.3333333333333333,
+    "pred": {
+      "merchant": "Laxmi Cyber Cafe",
+      "date": null,
+      "total": 9.6,
+      "items": [
+        "ROUTER RENTAL 1 187.00 187.00",
+        "CARRY BAG"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0584",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 1.0,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": null,
+      "total": 3236.45,
+      "items": [
+        "Mobile Repair",
+        "Chips",
+        "Mineral Water",
+        "Extension Board",
+        "Electric Kettle",
+        "Sub Fotel",
+        "S687 em."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0586",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "Sai Computers",
+      "date": null,
+      "total": 8779.49,
+      "items": [
+        "Mobile Cover",
+        "Ceiling Fan",
+        "Milk HL 4 64.99 256.60",
+        "Concert Ticket",
+        "Sub Totat",
+        "S6ST @O% 669.62"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0594",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "item_recall": 0.6666666666666666,
+    "pred": {
+      "merchant": "GOLDEN BOARD GAME CAFE",
+      "date": "2025-06-10",
+      "total": 5988.5,
+      "items": [
+        "Larry Bag",
+        "Concert Ticket"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "test_0596",
+    "level": "hard",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "item_recall": 0.5,
+    "pred": {
+      "merchant": "BALAJI DAILY NEEDS",
+      "date": "2025-02-04",
+      "total": 3.0,
+      "items": [
+        "PWR BYK 10000 I",
+        "PH 5006 t",
+        "PAR 2006 2 89.56 179.00",
+        "LT PYMNT FEE"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_070",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.231,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "TAMAN BERKELEY",
+      "date": null,
+      "total": 141.09,
+      "items": [
+        "504 YORCCHUN LOKAM MNORN S = RM62.59 z",
+        "2508 YONGCHUN LOKAM HNDRN 4% = =\u2014-RN79.00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_081",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.909,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "MR. D.1.Y\u00a5. SDN BHD",
+      "date": "2017-11-24",
+      "total": 3.9,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_083",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.0,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": null,
+      "date": "2017-05-30",
+      "total": 18.8,
+      "items": [
+        "1.00 PKT * 0.7500 OZ5. SR",
+        "1.00 PKT * 8.0000 8.00 SR",
+        "1.00 PKT * 6.0000 6.00 SR",
+        "2.00 ROLL * 1.5000 3.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_085",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.762,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "MR. D.1.\u00a5. SON BHD",
+      "date": "2017-12-28",
+      "total": 9.9,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_088",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "IKANO HANDEL SDN BHD",
+      "date": "2017-08-09",
+      "total": 99.8,
+      "items": [
+        "2 pc @ 4,90 9.80 SRM",
+        "70350938 TEODORES CH * 90.00 SRS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_089",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.444,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "CASTER + USER",
+      "date": "2017-12-04",
+      "total": 7.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_097",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.621,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "CO. (M) SDN BHD",
+      "date": "2018-01-12",
+      "total": 21.0,
+      "items": [
+        "2pc 6 13.69 27.38 T"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_099",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+      "date": "2017-12-04",
+      "total": 47.7,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_100",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.188,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "SF Pwubnt",
+      "date": "2017-12-02",
+      "total": 7.42,
+      "items": [
+        "4687.\u2014Ot\u00ab\u201d*\u201d 4 7.42 7.42. SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_109",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "LIM SENG THO HARDWARE TRADING",
+      "date": "2018-02-09",
+      "total": 7.0,
+      "items": [
+        "10.00 NOS x 070 7 00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_110",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "LiM SENG THO HARDWARE TRADING",
+      "date": null,
+      "total": 6.0,
+      "items": [
+        "3 00 x 200 6.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_111",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.069,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "Xt (9 ol)",
+      "date": "2017-12-28",
+      "total": 465.34,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_113",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+      "date": "2018-01-02",
+      "total": 93.07,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_114",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+      "date": "2018-01-04",
+      "total": 44.73,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_121",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.0,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "ZVBol OF",
+      "date": "2018-01-11",
+      "total": 21.2,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_124",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SYARIKAT PERNIAGAAN GIN KEE",
+      "date": "2018-02-12",
+      "total": 5.3,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_133",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "ASO ELECTRICAL TRADING SDN BHD",
+      "date": "2017-09-27",
+      "total": 248.05,
+      "items": [
+        "TOnAIS"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_138",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "RESTORAN WAN SHENG",
+      "date": "2018-03-14",
+      "total": 4.8,
+      "items": [
+        "1 x 2,20 2.20 SR",
+        "1x 2.20 2.20 SR",
+        "2x 0.20 0.40 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_142",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "RESTORAN WAN SHENG",
+      "date": "2018-03-14",
+      "total": 2.3,
+      "items": [
+        "1x 2.10 2.10 SR",
+        "1 x 0,20 0.20 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_146",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "PappaRich BMC",
+      "date": "2018-03-24",
+      "total": 72.93,
+      "items": [
+        "028 MILO DINO(I) E 7.45",
+        "2 RO3 N\u2019 LEMAK+fc E @17.83 35.66",
+        "1 N22 SPRG NOLtsutcr E 9.34",
+        "1 BO2 HALF BL EGG E 4.53 S",
+        "10% Srv Chg"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_149",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "HAPPY SNACKS ENTERPRISE",
+      "date": "2018-03-20",
+      "total": 36.62,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_155",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.88,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "g Alaf Restaurants Sdn Bhd",
+      "date": "2018-03-02",
+      "total": 28.0,
+      "items": [
+        "1 L McChicken",
+        "1 6Nuggets"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_170",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "Zen and coffee 28 S/B",
+      "date": "2018-03-25",
+      "total": 105.0,
+      "items": [
+        "1 Saba shioyaki wazen (2@mins) 26.00 S",
+        "1 Unagi don 28.00 S",
+        "1 Spicy ASARI Pasta 19.00 S",
+        "1 Ebi Mentai Pasta 22.00 S",
+        "1 Jasmine Green Tea 10.80 S"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_176",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "KEDAI PAPAN YEW CHUAN",
+      "date": "2018-02-28",
+      "total": 101.76,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_186",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.125,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "LOT P.T. 2811, JALAN ANGSA",
+      "date": "2018-02-07",
+      "total": 45.34,
+      "items": [
+        "2471 888 LYCHEES IN SYRUP S = RM10.14 s",
+        "03 X RK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_188",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.195,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "SUSHI MENTAI - PANDAN INDAH",
+      "date": "2018-04-09",
+      "total": 31.02,
+      "items": [
+        "1x 12.80 12.80 SR",
+        "Sushi",
+        "4x 1.80 7.20 SR",
+        "Sushi",
+        "2 x 2.80 5.60 SR",
+        "1x 1.00 1,00 SR",
+        "Serv. Charge (10%)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_197",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.25,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "ORD FLR, AEN TAMAN MALURT SC",
+      "date": "2018-09-02",
+      "total": 60.0,
+      "items": [
+        "1x AG000H5 19745 19.94\u00a2K",
+        "sub-tota",
+        "Raunding ad)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_204",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.783,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "MR. O.1.\u00a5. (M) SDN BHD",
+      "date": null,
+      "total": 50.8,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_205",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.917,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "MR. D.I.Y. (M) SDN BHO",
+      "date": null,
+      "total": 26.1,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_208",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "MR. D.I.Y. (M) SDN BHD",
+      "date": null,
+      "total": 12.3,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_210",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "KAISON FURNISHING SDN BHD",
+      "date": "2018-01-29",
+      "total": 7838.8,
+      "items": [
+        "122 pes @ 18.90 2,305.80 SR",
+        "240 pes @ 13.90 3,336.00 SR",
+        "130 pes @ 16.90 2,197.00 5"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_218",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "TRENDYMAX (M) SDN. BHD.",
+      "date": "2018-01-15",
+      "total": 329.1,
+      "items": [
+        "1 MS 15.00 0.00 15.005R",
+        "10 IB-RDM 28.90 -28.90 260.10 SR",
+        "12 AQORS5058 5.00 -6.00 54.00SR",
+        "1 QC2018 0.00 0.00 0.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_224",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.158,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "12, JALAN BUNGA TANJUNG",
+      "date": "2018-03-19",
+      "total": 31.8,
+      "items": [
+        "TAPE @ 2.50 12 30.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_229",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.868,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "Anzel Advertising (M) Sdn bhd (758795-H)",
+      "date": null,
+      "total": 7.42,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_234",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "BEMED {SP} SDN. BHD.",
+      "date": null,
+      "total": 165.0,
+      "items": [
+        "Reunding Ad"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_235",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "B & BEST RESTAURANT",
+      "date": "2017-02-10",
+      "total": 7.4,
+      "items": [
+        "110.12 se: an'ssac/5 PETALING JAVA",
+        "FISHBALL NOODLE",
+        "1 SUB TO1.."
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_242",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.192,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "HRETIEEN VOUCHER REFORE POINTS EXPIRY",
+      "date": "2017-01-05",
+      "total": 12.61,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_260",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.944,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "PERNIAGAAN RIANG KIA.",
+      "date": "2017-05-10",
+      "total": 22.6,
+      "items": [
+        "40002 1,00 X 21.32 else",
+        "Ho. ftys: 1.00 No. Itens: i"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_269",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "IN-SPARKLE TRADING SDN BHD",
+      "date": "2017-10-21",
+      "total": 250.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_276",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.125,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "LOT P.T, 2311, JALAN ANGSA",
+      "date": "2017-05-10",
+      "total": 72.74,
+      "items": [
+        "2174 AGW SARSAPARILLA 1.$. \u2014-RM2.85",
+        "2502 COKE ZERO 1.25. STOP",
+        "261 HELANG MINVOK MASAK SKG \u2014-RM24.40 z",
+        "25 CINTAN MI PERISA ASLI'S \u2014RN3.45 s",
+        "425 WAGOI HOT CUP HEE TOM = RM3.50 s",
+        "6059 588 TWISTIES COOKIES 1 RM2.30 s"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_278",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.182,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "ad OAM",
+      "date": null,
+      "total": 9.9,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_283",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "date": "2018-04-02",
+      "total": 8.2,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_292",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "date": "2018-04-16",
+      "total": 8.2,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_296",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "DOMINO'S PIZZA",
+      "date": "2018-04-17",
+      "total": 3.9,
+      "items": [
+        "1 6\"HT (TE) FPP-~FREI",
+        "1 6\"HT (BP) WIUELA-I"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_299",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "De Maximum Thai Express Sdn Bhd",
+      "date": "2018-04-14",
+      "total": 21.8,
+      "items": [
+        "1 FRO1"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_304",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.118,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "AOU tN",
+      "date": "2018-04-28",
+      "total": 39.6,
+      "items": [
+        "1 PLSB-R",
+        "1 RCD BROA4-ADI",
+        "lL PEP (CAN) LVDR-RG",
+        "i PEP (CAN} LVDR-RG",
+        "1. T/B LVDR-RG",
+        "1 S3\"HT (AC) LVDR~RGi"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_335",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.75,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "GAKDENIA BAREREES (KLI SDN BHD (139386 X)",
+      "date": null,
+      "total": 44.0,
+      "items": [
+        "O.C. WHITE Paap 5 > oO",
+        "WiOLEMEAL 2.78 5 Oo",
+        "0. JUMBO",
+        "1% supplies",
+        "Det [A-B/ SCOTCH 3. 7. 3 o",
+        "Ck-CHOCLT 0.72 22 9"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_343",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.852,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERI&S (KL) SDN BHD (139386 X)",
+      "date": "2017-08-03",
+      "total": 5148.0,
+      "items": [
+        "6.C. WHITE 2.38 5 1 0 <b",
+        "WHOL EMEAL",
+        "0.C JUMBO",
+        "DELICIA-B/SCOTCH",
+        "CR-B' SCOTCH",
+        "BUN-SBILIS",
+        "KAYA-PANDN nap 3S\" Oe"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_344",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.836,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES (KI )SDN N BHD 39386 X)",
+      "date": "2017-09-05",
+      "total": 54.15,
+      "items": [
+        "O.C. WHITE 2.13 7",
+        "WHOL EMEAL 2.78 4 I",
+        "CR-VANILLA 0 oO ea",
+        "CR-CORN @/2 2 0 8 2"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_345",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.678,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES (RED SDN BEEP Ct t98 886 X)",
+      "date": "2017-09-03",
+      "total": 29.59,
+      "items": [
+        "0.C. WHITE 2.13 0 1 @ i AS",
+        "WHOL EMEAL 2.78 5 0 vu S",
+        "O.C JUMBO 2.97 3 0 0 3 &.91",
+        "CR-CHOCLT 0.72 b 6 @ @ 6 OO"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_346",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.873,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)",
+      "date": "2017-09-30",
+      "total": 26.8,
+      "items": [
+        "Che ceWHbE 2.33 1: G6",
+        "O.C JUMBO 2.97 @ 2 8 -2 _-5.94",
+        "CR-B'\u2019SCOTCH 0.72 26 \u00a9 \u00a9 20"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_354",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.737,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GAKDENLA BAKERIES KLE) SDN BILD (139386 X)",
+      "date": null,
+      "total": 40.18,
+      "items": [
+        "O.C WHITE",
+        "WHOL EMEAL c.78 6 1",
+        "JUMB 2.97 + 3: \u00a9 1 __\u00a2 9",
+        "CR-CHOCL I @.72 20 ,\u00a5 a",
+        "CST"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_356",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.873,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)",
+      "date": "2017-09-11",
+      "total": 65.5,
+      "items": [
+        "O.C. WHITE Set ba 3 7)",
+        "WHOLEMEAL eat 3 +4",
+        "9.\u20ac JUNBO 2 Sines",
+        "DELICIA-B/SCOTCH 3.72",
+        "CR-CHOCLT @:72 <co0",
+        "CR -&* SCOTCH",
+        "5Q-S BERRY @.84 14 8",
+        "BUN-SBILIS @. $4 3) e 9 ~Z",
+        "MUFFIN Bae 125 @ 5 @ be)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_357",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.786,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GAKDENIA BAKEREES (KEL) SDN BHD (139386 X)",
+      "date": null,
+      "total": 23.2,
+      "items": [
+        "O.C. WHITE 2.15 4 1",
+        "WHOL EMEAL",
+        "O.c JUMBO",
+        "CR-CHOCLT @.72 26 le a"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_365",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.836,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES (KI.) SDN BHD (139386 X)",
+      "date": "2017-10-22",
+      "total": 34.21,
+      "items": [
+        "O.C. WHITt",
+        "WHOL FEAL #8",
+        "0.\u20ac JUMBO 2.97 3 5 @ ~2",
+        "TWIG-CHOC"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_371",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.842,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "GARDENIA BAKERIES Si(KL ) SDN BHD (139386 X)",
+      "date": "2017-10-18",
+      "total": 27.2,
+      "items": [
+        "6.C JUMBO 2.97 3 3 6 Oley i",
+        "DELICIA-B/SCOTCH 3.72 1a) 2 0 ~2",
+        "CR-CORN",
+        "SQ-CHOCMLT Bibs 12)",
+        "TWIG-C.DRM pe: Lar - ena Ha"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_381",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.111,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "Oy Pee Pe ee ere eee eee ero ee",
+      "date": null,
+      "total": 6.33,
+      "items": [
+        "MTD RC AT K074",
+        "MTD SV/GY AT HO74",
+        "MTD QV AT KO74",
+        "BO E112 4 Ao 869.00 6.008R",
+        "8 74i6Gs 4 0.00 9580 25.808R",
+        "Bu Tatay 2 000 0.00 O.008R",
+        "80 7AI8G 4 at 60.00 \u00a7.008R",
+        "RC Balence :0.00",
+        "ERG%)",
+        "ER O%)",
+        "EX/OE (0%)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_390",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.941,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "WR. D.I.Y. (KUCHAI) SDN BHD",
+      "date": "2032-03-12",
+      "total": 57.4,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_392",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.917,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "HR. D.I.Y. (M) SDN BHD",
+      "date": "2016-01-08",
+      "total": 64.7,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_398",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.812,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "99 SPEED MART S/B (SI9S3?-X)",
+      "date": "2016-04-16",
+      "total": 2.18,
+      "items": [
+        "F178 GARDENIA SQUIGGLES CHO RN2.10"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_400",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "SIN THYE & COMPANY",
+      "date": "2016-02-28",
+      "total": 110.6,
+      "items": [
+        "MON-SAT 7.30am-6.00pm",
+        "SUN 7.30am-2.00pm",
+        "TAK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_401",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.824,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "WR. D.1.Y. (KUCHAT) SDN BHD",
+      "date": "2016-04-22",
+      "total": 12.5,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_405",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.182,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "JALAN KAPAR, MUKIM KAPAR",
+      "date": "2016-05-11",
+      "total": 177.22,
+      "items": [
+        "967 ANCHOR SERBUK CUCI 4KG . RN18.80 s",
+        "2 X RH",
+        "886 DOVE CREAM BAR SOAP 100 = RH26.50",
+        "5551 FERNLEAF FULL CRM MILK RN40.95 s",
+        "265 LEE KUM KEE SOS TIRAM C = RM22, 80 s",
+        "2394 MISTER POTATO CHIPS 88 RA7.90",
+        "2 X RA",
+        "8019 MARIGOLD HL MILK IL RM12. 70 s",
+        "2 X RH",
+        "2216 NUTELLA FERRERO HAZELN RM14.45",
+        "2 X RH"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_406",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.696,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "WR. O.1.\u00a5. (M) SDN BHD",
+      "date": "2016-05-22",
+      "total": 21.5,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_409",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UROKO JAPANESE CUISINE SDN BHD",
+      "date": "2018-05-14",
+      "total": 87.1,
+      "items": [
+        "1 UROKO SALAD @ 28.00 28.00 SR",
+        "1 NIKU SHOGAYAKI SET @ 38.68 SR",
+        "1 GARLIC CHAHAN @ 6.00 SR",
+        "2 GREEN TEA @ 1.00 2.00 SR",
+        "service Chg 10.00"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_420",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.931,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "buardian Health And Heauty Sdn Bhd",
+      "date": null,
+      "total": 5.0,
+      "items": [
+        "12106260 100 PLUS SUOML",
+        "SUBTUTAL",
+        "IUTAL (bb! iNUL)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_424",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "date": "2018-05-15",
+      "total": 8.2,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_431",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "date": "2018-05-10",
+      "total": 10.3,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_441",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.696,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "MR. O.L.\u00a5. (M) SON BHD",
+      "date": null,
+      "total": 31220.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_454",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "ENW Hardware Centre (M) Sdn. Bhd.",
+      "date": "2018-04-13",
+      "total": 27.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_456",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.936,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "ENW Hardwa. 2 Centre (M) Sdn. Bhd.",
+      "date": "2018-04-09",
+      "total": 51.0,
+      "items": [
+        "WS150 100 25.00 25.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_458",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "KFA SUPPLY",
+      "date": "2018-05-27",
+      "total": 11.6,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_468",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SWC ENTERPRISE SDN BHD",
+      "date": "2018-03-23",
+      "total": 41.2,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_478",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-05-24",
+      "total": 5.8,
+      "items": [
+        "2 X 2.9000 - 5.86 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_479",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-07-24",
+      "total": 5.8,
+      "items": [
+        "2 X 2.9000 - 5.80 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_480",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-12-14",
+      "total": 36.0,
+      "items": [
+        "1 X 36.0000 - 36.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_481",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-10-31",
+      "total": 3.9,
+      "items": [
+        "1 X 3.9000 - 3.90 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_484",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYU STATIONERY SHOP",
+      "date": "2017-11-18",
+      "total": 9.3,
+      "items": [
+        "2 X 2.9000 - 5.80 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_487",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": null,
+      "total": 12.4,
+      "items": [
+        "3 X 2.8060 - ey 8.70 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_494",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-07-18",
+      "total": 35.0,
+      "items": [
+        "1 X 35.0000 - 35.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_498",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.947,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "SANYO STATIONERY SHOP",
+      "date": "2017-07-19",
+      "total": 5.0,
+      "items": [
+        "50 X 0.1000 - 5.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_509",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.509,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "ENTERPRISE fS&Tis",
+      "date": "2017-09-12",
+      "total": 40.0,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_514",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.545,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "ENTERPRISE (SETIA",
+      "date": "2017-12-25",
+      "total": 0.14,
+      "items": [
+        "SR Te ae"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_526",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "date": "2018-06-12",
+      "total": 7.7,
+      "items": [
+        "RM2.54 1 RM2.54",
+        "RM5.18 1 RM5.18"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_533",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.303,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "SRO FLR, AEON TAMAN MALURI SC",
+      "date": "2018-06-12",
+      "total": 30.6,
+      "items": [
+        "Item promo @10,99",
+        "1x 000006420611 15.00SR",
+        "Item promo @13,75 ~1,25"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_542",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.966,
+    "date": false,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "LAVENDER CONFECTZONERY & BAKERY S/B",
+      "date": "2020-08-17",
+      "total": 276.5,
+      "items": [
+        "1 HON hic \u00a5 ShFT \u201cCAST. 3,30 T",
+        "XTAG f if Gk 5.40 T",
+        "1 PARMESAN CHEOCAR CHEES",
+        "1 TOFFEE CANTSH",
+        "2 FGG TART",
+        "1 OTAK : lek ir BUN 3.10 J"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_550",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "Gerbang Alaf Restaurants Sdn Bhd",
+      "date": "2018-05-11",
+      "total": 1.07,
+      "items": [
+        "TL Metinieken",
+        "1 BNuggets"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_556",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "RESTORAN WAN SHENG",
+      "date": null,
+      "total": 4.2,
+      "items": [
+        "1x 2.10 2.10 ZRL",
+        "1x 2,10 2.10 ZRL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_558",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "RESTORAN WAN SHENG",
+      "date": null,
+      "total": 6.5,
+      "items": [
+        "1x 2.10 2.10 ZRL",
+        "1 x 2.10 2.10 ZRL",
+        "1x 1,70 1.70 ZRL",
+        "x 0,20 0.60 ZRL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_569",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "RESTORAN WAN SHENG",
+      "date": null,
+      "total": 7.8,
+      "items": [
+        "2 x 2. 20 4.40 ZRL",
+        "1x 2. 80 2.80 ZRL",
+        "3 x 0. 20 0.60 ZRL"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_577",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.125,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "LOT P.T. 2811, JALAN ANGSA",
+      "date": "2018-06-04",
+      "total": 23.4,
+      "items": [
+        "620 CARNATION SUSU KRIMER S RH7.50 z",
+        "C715 KNORR CHICKEN STOCK 1K = RM15.90 z"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_594",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": false,
+    "merchant_similarity": 0.125,
+    "date": true,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "LOT P.T. 2811, JALAN ANGSA",
+      "date": "2018-05-03",
+      "total": 19.9,
+      "items": [
+        "2249 CARLSBERG SMOOTH DRAUG = RM14.30 s"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_597",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.912,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "CONE ONE 'HRit SEAFOOD RESTAURANT SDN BHD",
+      "date": "2018-05-22",
+      "total": 71.02,
+      "items": [
+        "1 D 32.00 SR",
+        "1 D 4,00 SR",
+        "1 D 18.00 SR",
+        "D 8.00 SR",
+        "1 D 5.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_598",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": false,
+    "all_three": false,
+    "pred": {
+      "merchant": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+      "date": "2018-05-28",
+      "total": 112.36,
+      "items": [],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_599",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.971,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "QNE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+      "date": "2018-05-19",
+      "total": 42.4,
+      "items": [
+        "D 15. 00 SR",
+        "1 D 5.00 SR",
+        "D 20.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_611",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "AMTECH ELECTRICAL SUPPLIES",
+      "date": "2018-06-27",
+      "total": 136.0,
+      "items": [
+        "30W SUPER T8 LED TUBE\u2019 D/L -FNM",
+        "2x40W LED F/FITTING (EMPTY)-ITK"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_618",
+    "level": "sroie",
+    "merchant_exact": true,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 1.0,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+      "date": "2018-06-13",
+      "total": 35.0,
+      "items": [
+        "D 15.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_621",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.971,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "ONE ONE THREE SEAFOOD RESTAURANT SON BHD",
+      "date": "2018-06-15",
+      "total": 148.5,
+      "items": [
+        "D 5,50-SR",
+        "D 5.00 SR",
+        "Tota] (Exc liaito ast)"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_623",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.941,
+    "date": true,
+    "total": true,
+    "all_three": true,
+    "pred": {
+      "merchant": "CNE ONE THREE SEAFOOD RESTAURANT SDN BHO",
+      "date": "2018-06-23",
+      "total": 179.5,
+      "items": [
+        "D 30.00 SR",
+        "1 D 30.00 SR",
+        "1 D 7,50 SR",
+        "1 D 15.00 SR",
+        "1 D 5.00 SR"
+      ],
+      "gstin": null
+    }
+  },
+  {
+    "id": "sroie_625",
+    "level": "sroie",
+    "merchant_exact": false,
+    "merchant_fuzzy": true,
+    "merchant_similarity": 0.936,
+    "date": false,
+    "total": true,
+    "all_three": false,
+    "pred": {
+      "merchant": "WAN HING STATIONERY SDN BHD",
+      "date": null,
+      "total": 12.0,
+      "items": [
+        "F/Castel! 187097-75 Tack-h 2 SR"
+      ],
+      "gstin": null
+    }
+  }
+]

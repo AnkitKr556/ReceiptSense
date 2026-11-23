@@ -1,0 +1,1394 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "summary": {
+    "Rules only": {
+      "accuracy": {
+        "mean": 0.8009999999999999,
+        "std": 0.029185232186463374
+      },
+      "macro_f1": {
+        "mean": 0.8844388871525964,
+        "std": 0.01628880927816615
+      },
+      "accuracy_known_shops": {
+        "mean": 0.9966666666666667,
+        "std": 0.005163977794943213
+      },
+      "accuracy_new_shops": {
+        "mean": 0.6053333333333333,
+        "std": 0.05912698199637794
+      },
+      "coverage": {
+        "mean": 0.8043333333333333,
+        "std": 0.029147136318265574
+      },
+      "per_class_f1": {
+        "Groceries": 0.83698,
+        "Dining": 0.9075,
+        "Fuel & Transport": 0.9111800000000001,
+        "Health & Pharmacy": 0.93488,
+        "Shopping": 0.87958,
+        "Electronics": 0.8404999999999999,
+        "Entertainment": 0.90094,
+        "Bills & Utilities": 0.86394
+      }
+    },
+    "ML only": {
+      "accuracy": {
+        "mean": 0.9486666666666667,
+        "std": 0.013012814197295441
+      },
+      "macro_f1": {
+        "mean": 0.9488675974656309,
+        "std": 0.01276820151976526
+      },
+      "accuracy_known_shops": {
+        "mean": 0.9793333333333333,
+        "std": 0.006463573143221742
+      },
+      "accuracy_new_shops": {
+        "mean": 0.9179999999999999,
+        "std": 0.028952067667477953
+      },
+      "coverage": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "per_class_f1": {
+        "Groceries": 0.9422799999999999,
+        "Dining": 0.9588599999999999,
+        "Fuel & Transport": 0.94352,
+        "Health & Pharmacy": 0.9653600000000001,
+        "Shopping": 0.9293799999999999,
+        "Electronics": 0.94838,
+        "Entertainment": 0.94328,
+        "Bills & Utilities": 0.9598800000000001
+      }
+    },
+    "Hybrid": {
+      "accuracy": {
+        "mean": 0.9586666666666666,
+        "std": 0.014544949486180972
+      },
+      "macro_f1": {
+        "mean": 0.9587952223424416,
+        "std": 0.014490480192573384
+      },
+      "accuracy_known_shops": {
+        "mean": 0.9993333333333332,
+        "std": 0.0013333333333333196
+      },
+      "accuracy_new_shops": {
+        "mean": 0.9179999999999999,
+        "std": 0.028952067667477953
+      },
+      "coverage": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "per_class_f1": {
+        "Groceries": 0.95096,
+        "Dining": 0.96506,
+        "Fuel & Transport": 0.9566000000000001,
+        "Health & Pharmacy": 0.9718199999999999,
+        "Shopping": 0.9410400000000001,
+        "Electronics": 0.96064,
+        "Entertainment": 0.9574,
+        "Bills & Utilities": 0.96678
+      }
+    }
+  },
+  "gate_at_chosen_tau": {
+    "review_rate": {
+      "mean": 0.013333333333333336,
+      "std": 0.01636391694484477
+    },
+    "auto_accuracy": {
+      "mean": 0.9676321511062757,
+      "std": 0.012912187924725226
+    },
+    "accuracy_after_review": {
+      "mean": 0.968,
+      "std": 0.013055437351710764
+    }
+  },
+  "tau_curve_test_mean": [
+    {
+      "tau": 0.0,
+      "review_rate": 0.0,
+      "auto_accuracy": 0.9586666666666666,
+      "accuracy_after_review": 0.9586666666666666
+    },
+    {
+      "tau": 0.05,
+      "review_rate": 0.0,
+      "auto_accuracy": 0.9586666666666666,
+      "accuracy_after_review": 0.9586666666666666
+    },
+    {
+      "tau": 0.1,
+      "review_rate": 0.0,
+      "auto_accuracy": 0.9586666666666666,
+      "accuracy_after_review": 0.9586666666666666
+    },
+    {
+      "tau": 0.15,
+      "review_rate": 0.0,
+      "auto_accuracy": 0.9586666666666666,
+      "accuracy_after_review": 0.9586666666666666
+    },
+    {
+      "tau": 0.2,
+      "review_rate": 0.0006666666666666668,
+      "auto_accuracy": 0.959309961046188,
+      "accuracy_after_review": 0.9593333333333334
+    },
+    {
+      "tau": 0.25,
+      "review_rate": 0.007000000000000001,
+      "auto_accuracy": 0.9630677227816747,
+      "accuracy_after_review": 0.9633333333333333
+    },
+    {
+      "tau": 0.3,
+      "review_rate": 0.020666666666666667,
+      "auto_accuracy": 0.9714040083920128,
+      "accuracy_after_review": 0.9720000000000001
+    },
+    {
+      "tau": 0.35,
+      "review_rate": 0.035666666666666666,
+      "auto_accuracy": 0.9789901786020507,
+      "accuracy_after_review": 0.9796666666666667
+    },
+    {
+      "tau": 0.4,
+      "review_rate": 0.04866666666666667,
+      "auto_accuracy": 0.9840079875961966,
+      "accuracy_after_review": 0.9846666666666666
+    },
+    {
+      "tau": 0.45,
+      "review_rate": 0.058666666666666666,
+      "auto_accuracy": 0.9877337356235669,
+      "accuracy_after_review": 0.9883333333333333
+    },
+    {
+      "tau": 0.5,
+      "review_rate": 0.07433333333333333,
+      "auto_accuracy": 0.9914850344621593,
+      "accuracy_after_review": 0.992
+    },
+    {
+      "tau": 0.55,
+      "review_rate": 0.08933333333333333,
+      "auto_accuracy": 0.9931494348300207,
+      "accuracy_after_review": 0.9936666666666667
+    },
+    {
+      "tau": 0.6,
+      "review_rate": 0.10999999999999999,
+      "auto_accuracy": 0.9941295463520206,
+      "accuracy_after_review": 0.9946666666666666
+    },
+    {
+      "tau": 0.65,
+      "review_rate": 0.12766666666666668,
+      "auto_accuracy": 0.9958924660790412,
+      "accuracy_after_review": 0.9963333333333333
+    },
+    {
+      "tau": 0.7,
+      "review_rate": 0.14666666666666667,
+      "auto_accuracy": 0.9973360325490604,
+      "accuracy_after_review": 0.9976666666666667
+    },
+    {
+      "tau": 0.75,
+      "review_rate": 0.16766666666666669,
+      "auto_accuracy": 0.9984496065801581,
+      "accuracy_after_review": 0.9986666666666666
+    },
+    {
+      "tau": 0.8,
+      "review_rate": 0.197,
+      "auto_accuracy": 0.9992047682286727,
+      "accuracy_after_review": 0.9993333333333332
+    },
+    {
+      "tau": 0.85,
+      "review_rate": 0.22600000000000003,
+      "auto_accuracy": 0.9995876288659794,
+      "accuracy_after_review": 0.9996666666666666
+    },
+    {
+      "tau": 0.9,
+      "review_rate": 0.26999999999999996,
+      "auto_accuracy": 0.9995689655172413,
+      "accuracy_after_review": 0.9996666666666666
+    },
+    {
+      "tau": 0.95,
+      "review_rate": 0.33766666666666667,
+      "auto_accuracy": 1.0,
+      "accuracy_after_review": 1.0
+    }
+  ],
+  "chosen": [
+    {
+      "seed": 0,
+      "C": 10.0,
+      "tau": 0.4
+    },
+    {
+      "seed": 1,
+      "C": 10.0,
+      "tau": 0.4
+    },
+    {
+      "seed": 2,
+      "C": 1.0,
+      "tau": 0.0
+    },
+    {
+      "seed": 3,
+      "C": 1.0,
+      "tau": 0.0
+    },
+    {
+      "seed": 4,
+      "C": 10.0,
+      "tau": 0.0
+    }
+  ],
+  "hybrid_sources_mean": {
+    "rule": 0.49766666666666665,
+    "ml": 0.5023333333333333
+  },
+  "confusion_hybrid_seed0": [
+    [
+      65,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      69,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      68,
+      0,
+      1,
+      3,
+      4,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      74,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      67,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      80,
+      0,
+      1
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      2,
+      0,
+      70,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      74
+    ]
+  ],
+  "labels": [
+    "Groceries",
+    "Dining",
+    "Fuel & Transport",
+    "Health & Pharmacy",
+    "Shopping",
+    "Electronics",
+    "Entertainment",
+    "Bills & Utilities"
+  ],
+  "predict_ms_per_receipt": 2.2643502033330756,
+  "train_seconds": 0.36227973499990185,
+  "per_seed": [
+    {
+      "seed": 0,
+      "C": 10.0,
+      "tau": 0.4,
+      "Rules only": {
+        "accuracy": 0.775,
+        "macro_f1": 0.8698939952835207,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.55,
+        "coverage": 0.7816666666666666,
+        "per_class_f1": {
+          "Groceries": 0.8908,
+          "Dining": 0.8841,
+          "Fuel & Transport": 0.8676,
+          "Health & Pharmacy": 0.9078,
+          "Shopping": 0.873,
+          "Electronics": 0.8392,
+          "Entertainment": 0.8905,
+          "Bills & Utilities": 0.8062
+        }
+      },
+      "ML only": {
+        "accuracy": 0.9316666666666666,
+        "macro_f1": 0.9320677483698142,
+        "accuracy_known_shops": 0.9733333333333334,
+        "accuracy_new_shops": 0.89,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.942,
+          "Dining": 0.9577,
+          "Fuel & Transport": 0.8919,
+          "Health & Pharmacy": 0.9542,
+          "Shopping": 0.9362,
+          "Electronics": 0.9341,
+          "Entertainment": 0.8861,
+          "Bills & Utilities": 0.9542
+        }
+      },
+      "Hybrid": {
+        "accuracy": 0.945,
+        "macro_f1": 0.9451378381801091,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.89,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9489,
+          "Dining": 0.965,
+          "Fuel & Transport": 0.9252,
+          "Health & Pharmacy": 0.9673,
+          "Shopping": 0.9437,
+          "Electronics": 0.9467,
+          "Entertainment": 0.9032,
+          "Bills & Utilities": 0.961
+        }
+      },
+      "hybrid_sources": {
+        "rule": 0.5,
+        "ml": 0.5
+      },
+      "tau_test": [
+        {
+          "tau": 0.0,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.945,
+          "accuracy_after_review": 0.945
+        },
+        {
+          "tau": 0.05,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.945,
+          "accuracy_after_review": 0.945
+        },
+        {
+          "tau": 0.1,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.945,
+          "accuracy_after_review": 0.945
+        },
+        {
+          "tau": 0.15,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.945,
+          "accuracy_after_review": 0.945
+        },
+        {
+          "tau": 0.2,
+          "review_rate": 0.0016666666666666668,
+          "auto_accuracy": 0.9465776293823038,
+          "accuracy_after_review": 0.9466666666666667
+        },
+        {
+          "tau": 0.25,
+          "review_rate": 0.006666666666666667,
+          "auto_accuracy": 0.9513422818791947,
+          "accuracy_after_review": 0.9516666666666667
+        },
+        {
+          "tau": 0.3,
+          "review_rate": 0.016666666666666666,
+          "auto_accuracy": 0.9610169491525423,
+          "accuracy_after_review": 0.9616666666666667
+        },
+        {
+          "tau": 0.35,
+          "review_rate": 0.025,
+          "auto_accuracy": 0.9658119658119658,
+          "accuracy_after_review": 0.9666666666666667
+        },
+        {
+          "tau": 0.4,
+          "review_rate": 0.03166666666666667,
+          "auto_accuracy": 0.9724612736660929,
+          "accuracy_after_review": 0.9733333333333334
+        },
+        {
+          "tau": 0.45,
+          "review_rate": 0.04,
+          "auto_accuracy": 0.9774305555555556,
+          "accuracy_after_review": 0.9783333333333334
+        },
+        {
+          "tau": 0.5,
+          "review_rate": 0.05,
+          "auto_accuracy": 0.980701754385965,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.55,
+          "review_rate": 0.06833333333333333,
+          "auto_accuracy": 0.9856887298747764,
+          "accuracy_after_review": 0.9866666666666667
+        },
+        {
+          "tau": 0.6,
+          "review_rate": 0.08833333333333333,
+          "auto_accuracy": 0.9890310786106032,
+          "accuracy_after_review": 0.99
+        },
+        {
+          "tau": 0.65,
+          "review_rate": 0.1,
+          "auto_accuracy": 0.9944444444444445,
+          "accuracy_after_review": 0.995
+        },
+        {
+          "tau": 0.7,
+          "review_rate": 0.11333333333333333,
+          "auto_accuracy": 0.9962406015037594,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.75,
+          "review_rate": 0.14,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.8,
+          "review_rate": 0.165,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.85,
+          "review_rate": 0.18166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.9,
+          "review_rate": 0.21,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.95,
+          "review_rate": 0.2633333333333333,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        }
+      ],
+      "hybrid_with_gate": {
+        "tau": 0.4,
+        "review_rate": 0.03166666666666667,
+        "auto_accuracy": 0.9724612736660929,
+        "accuracy_after_review": 0.9733333333333334
+      },
+      "confusion_hybrid": [
+        [
+          65,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          69,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          68,
+          0,
+          1,
+          3,
+          4,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          74,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          67,
+          0,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          80,
+          0,
+          1
+        ],
+        [
+          4,
+          0,
+          0,
+          0,
+          2,
+          0,
+          70,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          74
+        ]
+      ],
+      "predict_ms_per_receipt": 2.2643502033330756,
+      "train_seconds": 0.36227973499990185
+    },
+    {
+      "seed": 1,
+      "C": 10.0,
+      "tau": 0.4,
+      "Rules only": {
+        "accuracy": 0.7933333333333333,
+        "macro_f1": 0.8776384981247092,
+        "accuracy_known_shops": 0.9866666666666667,
+        "accuracy_new_shops": 0.6,
+        "coverage": 0.7933333333333333,
+        "per_class_f1": {
+          "Groceries": 0.7627,
+          "Dining": 0.875,
+          "Fuel & Transport": 0.9437,
+          "Health & Pharmacy": 0.9241,
+          "Shopping": 0.913,
+          "Electronics": 0.7193,
+          "Entertainment": 0.9404,
+          "Bills & Utilities": 0.9429
+        }
+      },
+      "ML only": {
+        "accuracy": 0.9483333333333334,
+        "macro_f1": 0.9481869568385406,
+        "accuracy_known_shops": 0.9833333333333333,
+        "accuracy_new_shops": 0.9133333333333333,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9211,
+          "Dining": 0.9655,
+          "Fuel & Transport": 0.9595,
+          "Health & Pharmacy": 0.9487,
+          "Shopping": 0.9262,
+          "Electronics": 0.9296,
+          "Entertainment": 0.9686,
+          "Bills & Utilities": 0.9664
+        }
+      },
+      "Hybrid": {
+        "accuracy": 0.955,
+        "macro_f1": 0.9547087072728399,
+        "accuracy_known_shops": 0.9966666666666667,
+        "accuracy_new_shops": 0.9133333333333333,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9333,
+          "Dining": 0.9655,
+          "Fuel & Transport": 0.9595,
+          "Health & Pharmacy": 0.9548,
+          "Shopping": 0.9474,
+          "Electronics": 0.9296,
+          "Entertainment": 0.9811,
+          "Bills & Utilities": 0.9664
+        }
+      },
+      "hybrid_sources": {
+        "rule": 0.49333333333333335,
+        "ml": 0.5066666666666667
+      },
+      "tau_test": [
+        {
+          "tau": 0.0,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.955,
+          "accuracy_after_review": 0.955
+        },
+        {
+          "tau": 0.05,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.955,
+          "accuracy_after_review": 0.955
+        },
+        {
+          "tau": 0.1,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.955,
+          "accuracy_after_review": 0.955
+        },
+        {
+          "tau": 0.15,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.955,
+          "accuracy_after_review": 0.955
+        },
+        {
+          "tau": 0.2,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.955,
+          "accuracy_after_review": 0.955
+        },
+        {
+          "tau": 0.25,
+          "review_rate": 0.0033333333333333335,
+          "auto_accuracy": 0.9565217391304348,
+          "accuracy_after_review": 0.9566666666666667
+        },
+        {
+          "tau": 0.3,
+          "review_rate": 0.015,
+          "auto_accuracy": 0.9644670050761421,
+          "accuracy_after_review": 0.965
+        },
+        {
+          "tau": 0.35,
+          "review_rate": 0.025,
+          "auto_accuracy": 0.9692307692307692,
+          "accuracy_after_review": 0.97
+        },
+        {
+          "tau": 0.4,
+          "review_rate": 0.035,
+          "auto_accuracy": 0.9723661485319517,
+          "accuracy_after_review": 0.9733333333333334
+        },
+        {
+          "tau": 0.45,
+          "review_rate": 0.043333333333333335,
+          "auto_accuracy": 0.9790940766550522,
+          "accuracy_after_review": 0.98
+        },
+        {
+          "tau": 0.5,
+          "review_rate": 0.056666666666666664,
+          "auto_accuracy": 0.9876325088339223,
+          "accuracy_after_review": 0.9883333333333333
+        },
+        {
+          "tau": 0.55,
+          "review_rate": 0.06833333333333333,
+          "auto_accuracy": 0.9892665474060823,
+          "accuracy_after_review": 0.99
+        },
+        {
+          "tau": 0.6,
+          "review_rate": 0.08666666666666667,
+          "auto_accuracy": 0.9908759124087592,
+          "accuracy_after_review": 0.9916666666666667
+        },
+        {
+          "tau": 0.65,
+          "review_rate": 0.10333333333333333,
+          "auto_accuracy": 0.9925650557620818,
+          "accuracy_after_review": 0.9933333333333333
+        },
+        {
+          "tau": 0.7,
+          "review_rate": 0.12333333333333334,
+          "auto_accuracy": 0.9961977186311787,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.75,
+          "review_rate": 0.13833333333333334,
+          "auto_accuracy": 0.9961315280464217,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.8,
+          "review_rate": 0.16,
+          "auto_accuracy": 0.998015873015873,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.85,
+          "review_rate": 0.18166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.9,
+          "review_rate": 0.225,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.95,
+          "review_rate": 0.29,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        }
+      ],
+      "hybrid_with_gate": {
+        "tau": 0.4,
+        "review_rate": 0.035,
+        "auto_accuracy": 0.9723661485319517,
+        "accuracy_after_review": 0.9733333333333334
+      }
+    },
+    {
+      "seed": 2,
+      "C": 1.0,
+      "tau": 0.0,
+      "Rules only": {
+        "accuracy": 0.805,
+        "macro_f1": 0.8899202379550158,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.61,
+        "coverage": 0.805,
+        "per_class_f1": {
+          "Groceries": 0.8271,
+          "Dining": 0.9383,
+          "Fuel & Transport": 0.9542,
+          "Health & Pharmacy": 0.9381,
+          "Shopping": 0.8504,
+          "Electronics": 0.8413,
+          "Entertainment": 0.8906,
+          "Bills & Utilities": 0.8794
+        }
+      },
+      "ML only": {
+        "accuracy": 0.9566666666666667,
+        "macro_f1": 0.9570687552274127,
+        "accuracy_known_shops": 0.9766666666666667,
+        "accuracy_new_shops": 0.9366666666666666,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9487,
+          "Dining": 0.9643,
+          "Fuel & Transport": 0.9686,
+          "Health & Pharmacy": 0.9831,
+          "Shopping": 0.9517,
+          "Electronics": 0.9542,
+          "Entertainment": 0.9306,
+          "Bills & Utilities": 0.9554
+        }
+      },
+      "Hybrid": {
+        "accuracy": 0.9683333333333334,
+        "macro_f1": 0.9685395141705797,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.9366666666666666,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9548,
+          "Dining": 0.9704,
+          "Fuel & Transport": 0.9814,
+          "Health & Pharmacy": 0.9831,
+          "Shopping": 0.9517,
+          "Electronics": 0.9733,
+          "Entertainment": 0.965,
+          "Bills & Utilities": 0.9686
+        }
+      },
+      "hybrid_sources": {
+        "rule": 0.5,
+        "ml": 0.5
+      },
+      "tau_test": [
+        {
+          "tau": 0.0,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9683333333333334,
+          "accuracy_after_review": 0.9683333333333334
+        },
+        {
+          "tau": 0.05,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9683333333333334,
+          "accuracy_after_review": 0.9683333333333334
+        },
+        {
+          "tau": 0.1,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9683333333333334,
+          "accuracy_after_review": 0.9683333333333334
+        },
+        {
+          "tau": 0.15,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9683333333333334,
+          "accuracy_after_review": 0.9683333333333334
+        },
+        {
+          "tau": 0.2,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9683333333333334,
+          "accuracy_after_review": 0.9683333333333334
+        },
+        {
+          "tau": 0.25,
+          "review_rate": 0.011666666666666667,
+          "auto_accuracy": 0.9730185497470489,
+          "accuracy_after_review": 0.9733333333333334
+        },
+        {
+          "tau": 0.3,
+          "review_rate": 0.028333333333333332,
+          "auto_accuracy": 0.9811320754716981,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.35,
+          "review_rate": 0.055,
+          "auto_accuracy": 0.9929453262786596,
+          "accuracy_after_review": 0.9933333333333333
+        },
+        {
+          "tau": 0.4,
+          "review_rate": 0.07666666666666666,
+          "auto_accuracy": 0.9963898916967509,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.45,
+          "review_rate": 0.09333333333333334,
+          "auto_accuracy": 0.9981617647058824,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.5,
+          "review_rate": 0.11,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.55,
+          "review_rate": 0.12166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.6,
+          "review_rate": 0.15333333333333332,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.65,
+          "review_rate": 0.17666666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.7,
+          "review_rate": 0.195,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.75,
+          "review_rate": 0.225,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.8,
+          "review_rate": 0.2633333333333333,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.85,
+          "review_rate": 0.30333333333333334,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.9,
+          "review_rate": 0.35833333333333334,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.95,
+          "review_rate": 0.43833333333333335,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        }
+      ],
+      "hybrid_with_gate": {
+        "tau": 0.0,
+        "review_rate": 0.0,
+        "auto_accuracy": 0.9683333333333334,
+        "accuracy_after_review": 0.9683333333333334
+      }
+    },
+    {
+      "seed": 3,
+      "C": 1.0,
+      "tau": 0.0,
+      "Rules only": {
+        "accuracy": 0.855,
+        "macro_f1": 0.9137361280282679,
+        "accuracy_known_shops": 0.9966666666666667,
+        "accuracy_new_shops": 0.7133333333333334,
+        "coverage": 0.86,
+        "per_class_f1": {
+          "Groceries": 0.8889,
+          "Dining": 0.9811,
+          "Fuel & Transport": 0.9615,
+          "Health & Pharmacy": 0.9467,
+          "Shopping": 0.8448,
+          "Electronics": 0.8807,
+          "Entertainment": 0.9536,
+          "Bills & Utilities": 0.8525
+        }
+      },
+      "ML only": {
+        "accuracy": 0.9683333333333334,
+        "macro_f1": 0.9680352478123264,
+        "accuracy_known_shops": 0.9733333333333334,
+        "accuracy_new_shops": 0.9633333333333334,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.96,
+          "Dining": 0.975,
+          "Fuel & Transport": 0.9682,
+          "Health & Pharmacy": 0.9744,
+          "Shopping": 0.9185,
+          "Electronics": 0.9836,
+          "Entertainment": 0.9936,
+          "Bills & Utilities": 0.971
+        }
+      },
+      "Hybrid": {
+        "accuracy": 0.9816666666666667,
+        "macro_f1": 0.9817647156958054,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.9633333333333334,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9711,
+          "Dining": 0.9873,
+          "Fuel & Transport": 0.9875,
+          "Health & Pharmacy": 0.9809,
+          "Shopping": 0.9481,
+          "Electronics": 1.0,
+          "Entertainment": 0.9936,
+          "Bills & Utilities": 0.9855
+        }
+      },
+      "hybrid_sources": {
+        "rule": 0.49666666666666665,
+        "ml": 0.5033333333333333
+      },
+      "tau_test": [
+        {
+          "tau": 0.0,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9816666666666667,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.05,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9816666666666667,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.1,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9816666666666667,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.15,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9816666666666667,
+          "accuracy_after_review": 0.9816666666666667
+        },
+        {
+          "tau": 0.2,
+          "review_rate": 0.0016666666666666668,
+          "auto_accuracy": 0.9833055091819699,
+          "accuracy_after_review": 0.9833333333333333
+        },
+        {
+          "tau": 0.25,
+          "review_rate": 0.0033333333333333335,
+          "auto_accuracy": 0.9832775919732442,
+          "accuracy_after_review": 0.9833333333333333
+        },
+        {
+          "tau": 0.3,
+          "review_rate": 0.013333333333333334,
+          "auto_accuracy": 0.9864864864864865,
+          "accuracy_after_review": 0.9866666666666667
+        },
+        {
+          "tau": 0.35,
+          "review_rate": 0.02666666666666667,
+          "auto_accuracy": 0.9914383561643836,
+          "accuracy_after_review": 0.9916666666666667
+        },
+        {
+          "tau": 0.4,
+          "review_rate": 0.041666666666666664,
+          "auto_accuracy": 0.9965217391304347,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.45,
+          "review_rate": 0.051666666666666666,
+          "auto_accuracy": 0.9982425307557118,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.5,
+          "review_rate": 0.07166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.55,
+          "review_rate": 0.09333333333333334,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.6,
+          "review_rate": 0.12166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.65,
+          "review_rate": 0.14166666666666666,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.7,
+          "review_rate": 0.17,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.75,
+          "review_rate": 0.19333333333333333,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.8,
+          "review_rate": 0.23333333333333334,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.85,
+          "review_rate": 0.27166666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.9,
+          "review_rate": 0.33,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        },
+        {
+          "tau": 0.95,
+          "review_rate": 0.42,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        }
+      ],
+      "hybrid_with_gate": {
+        "tau": 0.0,
+        "review_rate": 0.0,
+        "auto_accuracy": 0.9816666666666667,
+        "accuracy_after_review": 0.9816666666666667
+      }
+    },
+    {
+      "seed": 4,
+      "C": 10.0,
+      "tau": 0.0,
+      "Rules only": {
+        "accuracy": 0.7766666666666666,
+        "macro_f1": 0.8710055763714692,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.5533333333333333,
+        "coverage": 0.7816666666666666,
+        "per_class_f1": {
+          "Groceries": 0.8154,
+          "Dining": 0.859,
+          "Fuel & Transport": 0.8289,
+          "Health & Pharmacy": 0.9577,
+          "Shopping": 0.9167,
+          "Electronics": 0.922,
+          "Entertainment": 0.8296,
+          "Bills & Utilities": 0.8387
+        }
+      },
+      "ML only": {
+        "accuracy": 0.9383333333333334,
+        "macro_f1": 0.9389792790800605,
+        "accuracy_known_shops": 0.99,
+        "accuracy_new_shops": 0.8866666666666667,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9396,
+          "Dining": 0.9318,
+          "Fuel & Transport": 0.9294,
+          "Health & Pharmacy": 0.9664,
+          "Shopping": 0.9143,
+          "Electronics": 0.9404,
+          "Entertainment": 0.9375,
+          "Bills & Utilities": 0.9524
+        }
+      },
+      "Hybrid": {
+        "accuracy": 0.9433333333333334,
+        "macro_f1": 0.9438253363928742,
+        "accuracy_known_shops": 1.0,
+        "accuracy_new_shops": 0.8866666666666667,
+        "coverage": 1.0,
+        "per_class_f1": {
+          "Groceries": 0.9467,
+          "Dining": 0.9371,
+          "Fuel & Transport": 0.9294,
+          "Health & Pharmacy": 0.973,
+          "Shopping": 0.9143,
+          "Electronics": 0.9536,
+          "Entertainment": 0.9441,
+          "Bills & Utilities": 0.9524
+        }
+      },
+      "hybrid_sources": {
+        "rule": 0.49833333333333335,
+        "ml": 0.5016666666666667
+      },
+      "tau_test": [
+        {
+          "tau": 0.0,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9433333333333334,
+          "accuracy_after_review": 0.9433333333333334
+        },
+        {
+          "tau": 0.05,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9433333333333334,
+          "accuracy_after_review": 0.9433333333333334
+        },
+        {
+          "tau": 0.1,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9433333333333334,
+          "accuracy_after_review": 0.9433333333333334
+        },
+        {
+          "tau": 0.15,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9433333333333334,
+          "accuracy_after_review": 0.9433333333333334
+        },
+        {
+          "tau": 0.2,
+          "review_rate": 0.0,
+          "auto_accuracy": 0.9433333333333334,
+          "accuracy_after_review": 0.9433333333333334
+        },
+        {
+          "tau": 0.25,
+          "review_rate": 0.01,
+          "auto_accuracy": 0.9511784511784511,
+          "accuracy_after_review": 0.9516666666666667
+        },
+        {
+          "tau": 0.3,
+          "review_rate": 0.03,
+          "auto_accuracy": 0.9639175257731959,
+          "accuracy_after_review": 0.965
+        },
+        {
+          "tau": 0.35,
+          "review_rate": 0.04666666666666667,
+          "auto_accuracy": 0.9755244755244755,
+          "accuracy_after_review": 0.9766666666666667
+        },
+        {
+          "tau": 0.4,
+          "review_rate": 0.058333333333333334,
+          "auto_accuracy": 0.9823008849557522,
+          "accuracy_after_review": 0.9833333333333333
+        },
+        {
+          "tau": 0.45,
+          "review_rate": 0.065,
+          "auto_accuracy": 0.9857397504456328,
+          "accuracy_after_review": 0.9866666666666667
+        },
+        {
+          "tau": 0.5,
+          "review_rate": 0.08333333333333333,
+          "auto_accuracy": 0.9890909090909091,
+          "accuracy_after_review": 0.99
+        },
+        {
+          "tau": 0.55,
+          "review_rate": 0.095,
+          "auto_accuracy": 0.990791896869245,
+          "accuracy_after_review": 0.9916666666666667
+        },
+        {
+          "tau": 0.6,
+          "review_rate": 0.1,
+          "auto_accuracy": 0.9907407407407407,
+          "accuracy_after_review": 0.9916666666666667
+        },
+        {
+          "tau": 0.65,
+          "review_rate": 0.11666666666666667,
+          "auto_accuracy": 0.9924528301886792,
+          "accuracy_after_review": 0.9933333333333333
+        },
+        {
+          "tau": 0.7,
+          "review_rate": 0.13166666666666665,
+          "auto_accuracy": 0.9942418426103646,
+          "accuracy_after_review": 0.995
+        },
+        {
+          "tau": 0.75,
+          "review_rate": 0.14166666666666666,
+          "auto_accuracy": 0.996116504854369,
+          "accuracy_after_review": 0.9966666666666667
+        },
+        {
+          "tau": 0.8,
+          "review_rate": 0.16333333333333333,
+          "auto_accuracy": 0.99800796812749,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.85,
+          "review_rate": 0.19166666666666668,
+          "auto_accuracy": 0.9979381443298969,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.9,
+          "review_rate": 0.22666666666666666,
+          "auto_accuracy": 0.9978448275862069,
+          "accuracy_after_review": 0.9983333333333333
+        },
+        {
+          "tau": 0.95,
+          "review_rate": 0.27666666666666667,
+          "auto_accuracy": 1.0,
+          "accuracy_after_review": 1.0
+        }
+      ],
+      "hybrid_with_gate": {
+        "tau": 0.0,
+        "review_rate": 0.0,
+        "auto_accuracy": 0.9433333333333334,
+        "accuracy_after_review": 0.9433333333333334
+      }
+    }
+  ]
+}

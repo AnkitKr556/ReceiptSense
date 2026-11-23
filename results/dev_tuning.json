@@ -1,0 +1,250 @@
+{
+  "rows": [
+    {
+      "config": "raw (no preprocessing)",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 97.5,
+        "merchant_fuzzy": 99.2,
+        "date": 72.5,
+        "total": 37.5,
+        "all_three": 35.0,
+        "item_recall": 41.5,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 48.0,
+        "merchant_fuzzy": 62.0,
+        "date": 74.0,
+        "total": 54.0,
+        "all_three": 26.0,
+        "n": 50
+      },
+      "mean_all_three": 30.5
+    },
+    {
+      "config": "full pipeline",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 80.0,
+        "total": 79.2,
+        "all_three": 66.7,
+        "item_recall": 86.3,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 48.0,
+        "merchant_fuzzy": 62.0,
+        "date": 80.0,
+        "total": 66.0,
+        "all_three": 40.0,
+        "n": 50
+      },
+      "mean_all_three": 53.4
+    },
+    {
+      "config": "without upscale",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 89.2,
+        "total": 43.3,
+        "all_three": 40.8,
+        "item_recall": 46.2,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 52.0,
+        "merchant_fuzzy": 64.0,
+        "date": 70.0,
+        "total": 62.0,
+        "all_three": 32.0,
+        "n": 50
+      },
+      "mean_all_three": 36.4
+    },
+    {
+      "config": "without light flattening",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 73.3,
+        "total": 62.5,
+        "all_three": 58.3,
+        "item_recall": 59.8,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 48.0,
+        "merchant_fuzzy": 64.0,
+        "date": 80.0,
+        "total": 64.0,
+        "all_three": 40.0,
+        "n": 50
+      },
+      "mean_all_three": 49.1
+    },
+    {
+      "config": "without deskew",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 95.0,
+        "merchant_fuzzy": 98.3,
+        "date": 81.7,
+        "total": 74.2,
+        "all_three": 65.0,
+        "item_recall": 77.5,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 46.0,
+        "merchant_fuzzy": 62.0,
+        "date": 74.0,
+        "total": 66.0,
+        "all_three": 36.0,
+        "n": 50
+      },
+      "mean_all_three": 50.5
+    },
+    {
+      "config": "without denoise",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 82.5,
+        "total": 73.3,
+        "all_three": 63.3,
+        "item_recall": 81.2,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 48.0,
+        "merchant_fuzzy": 60.0,
+        "date": 78.0,
+        "total": 58.0,
+        "all_three": 30.0,
+        "n": 50
+      },
+      "mean_all_three": 46.6
+    },
+    {
+      "config": "denoise every image",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 79.2,
+        "total": 79.2,
+        "all_three": 65.8,
+        "item_recall": 85.2,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 30.0,
+        "merchant_fuzzy": 54.0,
+        "date": 74.0,
+        "total": 58.0,
+        "all_three": 34.0,
+        "n": 50
+      },
+      "mean_all_three": 49.9
+    },
+    {
+      "config": "plus Otsu binarization",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 95.0,
+        "merchant_fuzzy": 96.7,
+        "date": 50.8,
+        "total": 59.2,
+        "all_three": 40.8,
+        "item_recall": 82.5,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 42.0,
+        "merchant_fuzzy": 58.0,
+        "date": 66.0,
+        "total": 62.0,
+        "all_three": 22.0,
+        "n": 50
+      },
+      "mean_all_three": 31.4
+    },
+    {
+      "config": "plus adaptive binarization",
+      "psm": 4,
+      "synthetic_dev": {
+        "merchant_exact": 90.0,
+        "merchant_fuzzy": 97.5,
+        "date": 88.3,
+        "total": 71.7,
+        "all_three": 69.2,
+        "item_recall": 70.9,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 42.0,
+        "merchant_fuzzy": 58.0,
+        "date": 62.0,
+        "total": 60.0,
+        "all_three": 24.0,
+        "n": 50
+      },
+      "mean_all_three": 46.6
+    },
+    {
+      "config": "raw (no preprocessing)",
+      "psm": 6,
+      "synthetic_dev": {
+        "merchant_exact": 91.7,
+        "merchant_fuzzy": 98.3,
+        "date": 87.5,
+        "total": 63.3,
+        "all_three": 61.7,
+        "item_recall": 60.7,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 46.0,
+        "merchant_fuzzy": 52.0,
+        "date": 84.0,
+        "total": 66.0,
+        "all_three": 32.0,
+        "n": 50
+      },
+      "mean_all_three": 46.9
+    },
+    {
+      "config": "full pipeline",
+      "psm": 6,
+      "synthetic_dev": {
+        "merchant_exact": 100.0,
+        "merchant_fuzzy": 100.0,
+        "date": 86.7,
+        "total": 83.3,
+        "all_three": 74.2,
+        "item_recall": 85.7,
+        "n": 120
+      },
+      "sroie_dev": {
+        "merchant_exact": 42.0,
+        "merchant_fuzzy": 58.0,
+        "date": 74.0,
+        "total": 70.0,
+        "all_three": 32.0,
+        "n": 50
+      },
+      "mean_all_three": 53.1
+    }
+  ],
+  "chosen": {
+    "config": "full pipeline",
+    "psm": 4
+  }
+}

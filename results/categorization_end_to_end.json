@@ -1,0 +1,82 @@
+{
+  "clean": {
+    "Rules only": {
+      "accuracy": 0.775,
+      "known": 1.0,
+      "new": 0.55,
+      "n": 80
+    },
+    "ML only": {
+      "accuracy": 0.95,
+      "known": 1.0,
+      "new": 0.9,
+      "n": 80
+    },
+    "Hybrid": {
+      "accuracy": 0.95,
+      "known": 1.0,
+      "new": 0.9,
+      "n": 80
+    }
+  },
+  "medium": {
+    "Rules only": {
+      "accuracy": 0.775,
+      "known": 1.0,
+      "new": 0.55,
+      "n": 80
+    },
+    "ML only": {
+      "accuracy": 0.9625,
+      "known": 1.0,
+      "new": 0.925,
+      "n": 80
+    },
+    "Hybrid": {
+      "accuracy": 0.9625,
+      "known": 1.0,
+      "new": 0.925,
+      "n": 80
+    }
+  },
+  "hard": {
+    "Rules only": {
+      "accuracy": 0.775,
+      "known": 1.0,
+      "new": 0.55,
+      "n": 80
+    },
+    "ML only": {
+      "accuracy": 0.95,
+      "known": 1.0,
+      "new": 0.9,
+      "n": 80
+    },
+    "Hybrid": {
+      "accuracy": 0.95,
+      "known": 1.0,
+      "new": 0.9,
+      "n": 80
+    }
+  },
+  "text (no OCR)": {
+    "Rules only": {
+      "accuracy": 0.775,
+      "known": 1.0,
+      "new": 0.55,
+      "n": 80
+    },
+    "ML only": {
+      "accuracy": 0.9625,
+      "known": 0.975,
+      "new": 0.95,
+      "n": 80
+    },
+    "Hybrid": {
+      "accuracy": 0.975,
+      "known": 1.0,
+      "new": 0.95,
+      "n": 80
+    }
+  }
+}

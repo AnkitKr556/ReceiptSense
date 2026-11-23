@@ -1,0 +1,21 @@
+........................................................................ [ 98%]
+.                                                                        [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.13.18-final-0 _______________
+
+Name                                 Stmts   Miss  Cover   Missing
+------------------------------------------------------------------
+src/expense_tracker/__init__.py          6      0   100%
+src/expense_tracker/__main__.py          3      3     0%   1-5
+src/expense_tracker/categorizer.py     134      1    99%   135
+src/expense_tracker/cli.py              72      3    96%   40-41, 103
+src/expense_tracker/evaluate.py         35      0   100%
+src/expense_tracker/models.py           25      0   100%
+src/expense_tracker/ocr.py              57      0   100%
+src/expense_tracker/parser.py          157      1    99%   235
+src/expense_tracker/pipeline.py         64      0   100%
+src/expense_tracker/preprocess.py       84      0   100%
+src/expense_tracker/synthetic.py       266      0   100%
+------------------------------------------------------------------
+TOTAL                                  903      8    99%
+73 passed in 15.73s
